@@ -6,8 +6,8 @@ This UD treebank is being built on the material of Hittite letters, as published
 We use UD general guidelines as much as possible; for language-specific features of Hittite see "Hittite UD -- Guidelines" in the project files.
 
 # Materials
-ud_hett.config: JSON with cherry-picked categories for Hittite.
-puduheba_letter_2025_09_15.conllu: annotated and proofred showcase.
+ud_hett.config: JSON with cherry-picked categories for Hittite.<br>
+puduheba_letter_2025_09_15.conllu: annotated and proofred showcase.<br>
 
 # References
 ACHC. – Molina, M. 2015-2024. Annotated Corpus of Hittite Clauses, http://hittitecorpus.com <br>
