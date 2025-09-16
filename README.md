@@ -1,7 +1,10 @@
 # hittite_ud
 This is to represent a project dedicated to the development of a Universal Dependencies (UD) treebank for Hittite, the most ancient of Indo-European languages attested in writing. To date, only a single Hittite treebank utilizing UD annotation exists, and it is built on examples from a textbook (Andersen, Rozonoyer 2020), not on critical editions of the Hittite texts. Previously, a pilot project for UD annotation of Hittite was initiated by a co-author of this paper within the PROIEL databases framework (Inglese et al. 2018). <br>
-This UD treebank is being built on the material of Hittite letters, as published by (Hoffner 2009) and represented in the Annotated Corpus of Hittite Clauses (ACHC). It includes updates for the latest UD annotation format (UD v. 2.9).<br>
-Examples of trees generates by PALMYRA 2.4 confugurative platform are in Trees-example branch. 
+This UD treebank is being built on the material of Hittite letters, as published by (Hoffner 2009) and represented in the Annotated Corpus of Hittite Clauses (ACHC). It includes updates for the latest UD annotation format (UD v. 2.16, May 2025).<br>
+
+# annotation guidelines
+We use UD general guidelines as much as possible; for language-specific features of Hittite see "Hittite UD -- Guidelines" in the project files.
+
 # References
 ACHC. – Molina, M. 2015-2024. Annotated Corpus of Hittite Clauses, http://hittitecorpus.com <br>
 Andersen, E., Rozonoyer, B. 2020. A Small Universal Dependencies Treebank for Hittite. // Proceedings of the Fourth Workshop on Universal Dependencies (UDW2020), Barcelona, Spain (Online), December 13, 2020. Pp. 1-7. <br>
