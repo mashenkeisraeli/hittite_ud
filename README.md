@@ -3,7 +3,8 @@ This is to represent a project dedicated to the development of a Universal Depen
 This UD treebank is being built on the material of Hittite letters, as published by (Hoffner 2009), Edel (1994), and Hagenbuchner (1989), represented in the Annotated Corpus of Hittite Clauses (ACHC), with additions and corrections according to the dataset published in May 2-25 by TLHdig project (Hetitologie Portal Mainz). It includes updates for the latest UD annotation format (UD v. 2.16, May 2025).<br>
 
 # Annotation guidelines
-We use UD general guidelines as much as possible; for language-specific features of Hittite see "Hittite UD -- Guidelines" in the project files.
+We use UD general guidelines as much as possible; for language-specific features of Hittite see "Hittite UD -- Guidelines" in the project files.<br>
+Dataset is organized as conllu-files. Recommended viewer: https://universaldependencies.org/conllu_viewer.html<br>
 
 # Materials
 ud_hett.config: JSON with cherry-picked categories for Hittite.<br>
