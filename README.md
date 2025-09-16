@@ -8,7 +8,7 @@ Dataset is organized as conllu-files. Recommended viewer: https://universaldepen
 
 # Materials
 ud_hett.config: JSON with cherry-picked categories for Hittite.<br>
-puduheba_letter_2025_09_15.conllu: annotated and proofred showcase.<br>
+puduheba_letter_2025_09_16.conllu: annotated and proofred showcase.<br>
 
 # References
 ACHC. – Molina, M. 2015-2024. Annotated Corpus of Hittite Clauses, http://hittitecorpus.com <br>
