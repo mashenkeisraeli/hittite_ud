@@ -1,0 +1,207 @@
+# ŠEŠ-YA=ma=mu kuit kišan TÀŠPUR LÚ.MEŠ ṬE4ME-KA=wa kuwapi [...] uēr nu=mu […] EGIR-pa uter nu=wa=za duškun
+1	ŠEŠ	negna- | *AHU* | ŠEŠ	NOUN	-	Gloss=brother|Language=Sum|Gender=Com|Number=Sing|Case=Voc	7	vocative		
+2	-YA	=mis | *-YA*	DET	-	Gloss=my|Language=Akk|PronType=Prs|Poss=Yes|Person=1|Number=Sing|Accent=Clitic	1	det:poss		
+3	=ma	=ma	PART	CL	Gloss=but|Accent=Clitic|ConjType=Adv	7	discourse		
+4	=mu	=mu	PRON	CL	Gloss=me|PronType=Prs|Accent=Clitic|Person=1|Number=Sing|Case=Dat	7	iobj		
+5	kuit	kuit	SCONJ	-	Gloss=as|-	7	mark		
+6	kišan	kissan	ADV	-	Gloss=so|-	7	advmod		
+7	TÀŠPUR	hatrae- | *ŠAPARU*	VERB	-	Gloss=write|Language=Akk|VerbForm=Fin|Mood=Ind|Tense=Past|Person=2|Number=Sing	0	root		
+8	LÚ.MEŠ	antuhsa- | LÚ	PART	DTR	Gloss=person|Language=Sum|Number=Plur	9	clf		
+9	ṬE4ME	halugatalla- | *ṬE4ME*	NOUN	-	Gloss=messenger|Language=Akk|Gender=Com|Case=Acc|Number=Plur	14	nsubj		
+10	-KA	=ttis | *-KA*	DET	-	Gloss=your|Language=Akk|PronType=Prs|Poss=Yes|Person=2|Number=Sing|Accent=Clitic	9	det:poss		
+11	=wa	=wa	PART	CL	Accent=Clitic	14	discourse:quot		
+12	kuwapi	kuwapi	ADV	-	Gloss=while|PronType=Int	14	advmod		
+13	[...]	FRGM	X	-	-	14	dep		
+14	uēr	uwa	VERB	-	Gloss=come|VerbForm=Fin|Mood=Ind|Tense=Past|Person=3|Number=Plur	7	ccomp		
+15	nu	nu	PART	CL	Accent=Clitic	19	discourse		
+16	=mu	=mu	PRON	CL	Gloss=me|PronType=Prs|Accent=Clitic|Person=1|Number=Sing|Case=Dat	19	iobj		
+17	[…]	FRGM	X	-	-	19	dep		
+18	EGIR-pa	appa | EGIR	ADV	-	Gloss=back|Language=Sum	19	advmod		
+19	uter	uda-	VERB	-	Gloss=bring|VerbForm=Fin|Mood=Ind|Tense=Past|Person=3|Number=Plur	14	conj		
+20	nu	nu	PART	CL	Accent=Clitic	23	discourse		
+21	=wa	=wa	PART	CL	Accent=Clitic	23	discourse:quot		
+22	=za	=za	PART	CL	Accent=Clitic|Reflex=Yes	23	discourse:refl		
+23	duškun	dusk-	VERB	-	Gloss=rejoyce|VerbForm=Fin|Mood=Ind|Tense=Past|Person=1|Number=Sing	14	conj		
+
+# n==at=[…]
+1	n=	nu	PART	CL	Accent=Clitic	3	discourse		
+2	=at	=a-	PRON	CL	Gloss=it|PronType=Prs|Accent=Clitic|Person=3|Number=Sing|Case=Acc	3	iobj		
+3	=[…]	FRGM	X	-	-	0	root		
+
+# ANA DAM ŠA ŠEŠ-KA TI-tar šuwaru SAG.DU-i ŠA ŠEŠ-YA TI-tar šuwaru QATAMMA ēšdu
+1	ANA	*ANA*	ADP	-	Gloss=to|Language=Akk|Case=Dat	2	case		
+2	DAM	DAM	NOUN	-	Gloss=wife|Language=Sum|Gender=Com|Number=Sing|Case=Dat	7	iobj		
+3	ŠA	*ŠA*	ADP	-	Gloss=of|Language=Akk|Case=Gen	4	case		
+4	ŠEŠ	negna- | *AHU* | ŠEŠ	NOUN	-	Gloss=brother|Language=Sum|Gender=Com|Number=Sing|Case=Gen	2	nmod:poss		
+5	-KA	=ttis | *-KA*	DET	-	Gloss=your|Language=Akk|PronType=Prs|Accent=Clitic|Person=2|Poss=Yes|Number=Sing|Case=Nom	4	det:poss		
+6	TI-tar	huisnu- | TI	NOUN	-	Gloss=life|Language=Sum|Gender=Com|Number=Sing|Case=Nom	7	nsubj		
+7	šuwaru	suwaru	ADJ	-	Gloss=full|Gender=Com|Number=Sing|Case=Nom	0	root		
+8	SAG.DU-i	harsa- | SAG.DU	NOUN	-	Gloss=head|Language=Sum|Gender=Com|Number=Sing|Case=Dat	13	iobj		
+9	ŠA	*ŠA*	ADP	-	Gloss=of|Language=Akk|Case=Gen	10	case		
+10	ŠEŠ	negna- | *AHU* | ŠEŠ	NOUN	-	Gloss=brother|Language=Sum|Gender=Com|Number=Sing|Case=Gen	8	nmod:poss		
+11	-YA	=mis | *-YA*	DET	-	Gloss=my|Language=Akk|PronType=Prs|Accent=Clitic|Person=1|Poss=Yes|Number=Sing	10	det:poss		
+12	TI-tar	huisnu- | TI	NOUN	-	Gloss=life|Language=Sum|Gender=Com|Number=Sing|Case=Nom	13	nsubj		
+13	šuwaru	suwaru	ADJ	-	Gloss=full|Gender=Com|Number=Sing|Case=Nom	7	conj		
+14	QATAMMA	apenissan | *QATAMMA*	ADV	-	Gloss=in the same way|Language=Akk	13	advmod		
+15	ēšdu	ēs- | GÁL	AUX	-	Gloss=be|VerbForm=Fin|Mood=Imp|Person=3|Number=Sing	13	cop		
+
+# nu=mu [...] uppi
+1	nu	nu	PART	CL	Accent=Clitic	4	discourse		
+2	=mu	=mu	PRON	CL	Gloss=me|PronType=Prs|Accent=Clitic|Person=1|Number=Sing|Case=Dat	4	iobj		
+3	[...]	FRGM	X	-	-	4	dep		
+4	uppi	uppa-/uppiya-	VERB	-	Gloss=dispatch|VerbForm=Fin|Mood=Imp|Person=2|Number=Sing	0	root		
+
+# n==at IŠTU NA4 ZA.GÌN tianteš ašandu
+1	n=	nu	PART	CL	Accent=Clitic	6	discourse		
+2	=at	=a-	PRON	CL	Gloss=they|PronType=Prs|Accent=Clitic|Person=3|Number=Plur|Case=Nom	6	nsubj		
+3	IŠTU	*IŠTU*	ADP	-	Gloss=with|Language=Akk|Case=Instr	5	case		
+4	NA4	NA4	PART	DTR	Gloss=stone|Language=Sum	5	clf		
+5	ZA.GÌN	ZA.GÌN	NOUN	-	Gloss=lapis lazuli|Language=Sum|Number=Sing|Case=Instr	6	obl		
+6	tianteš	dai- | *ŠAKANU* | ME	VERB	-	Gloss=put|VerbForm=Part|Number=Plur|Case=Nom	0	root		
+7	ašandu	ēs- | GÁL	AUX	-	Gloss=be|VerbForm=Fin|Mood=Imp|Person=3|Number=Plur	6	aux 		
+
+# namma=mu=kan ŠÀ KUR.KUR.MEŠ [...] TI-tar šuwaru
+1	namma	namma	ADV	-	Gloss=then|-	8	advmod		
+2	=mu	=mu	PRON	CL	Gloss=me|PronType=Prs|Accent=Clitic|Person=1|Number=Sing|Case=Dat	8	obl		
+3	=kan	=kan	PART	CL	Accent=Clitic|PartType=Loc	8	advmod:lmod		
+4	ŠÀ	ker-/kard- | ŠÀ	NOUN	-	Gloss=center|Language=Sum|Gender=Com|Case=Loc|Number=Sing	8	obl:lmod		
+5	KUR.KUR.MEŠ	udne- | *MATU* | KUR	NOUN	-	Gloss=land|Language=Sum|Gender=Com|Case=Gen|Number=Plur	4	nmod:poss		
+6	[...]	FRGM	X	-	-	8	dep		
+7	TI-tar	huisnu- | TI	NOUN	-	Gloss=life|Language=Sum|Gender=Com|Number=Sing|Case=Nom	8	nsubj		
+8	šuwaru	suwaru	ADJ	-	Gloss=full|Gender=Com|Number=Sing|Case=Nom	0	root		
+
+# ANA ŠEŠ-YA ammel aššulan ammel unuwašḫan uppaḫḫun
+1	ANA	*ANA*	ADP	-	Gloss=to|Language=Akk|Case=Dat	2	case		
+2	ŠEŠ	negna- | *AHU* | ŠEŠ	NOUN	-	Gloss=brother|Gender=Com|Number=Sing|Case=Dat	8	iobj		
+3	-YA	=mis | *-YA*	DET	-	Gloss=my|PronType=Prs|Accent=Clitic|Person=1|Poss=Yes|Number=Sing	2	det:poss		
+4	ammel	uk	PRON	-	Gloss=my|PronType=Prs|Accent=Stress|Case=Gen|Number=Sing|Person=1|Poss=Yes	5	nmod:poss		
+5	aššulan	assul- | SILIM	NOUN	-	Gloss=greeting|Gender=Com|Number=Sing|Case=Acc	8	obj		
+6	ammel	uk	PRON	-	Gloss=my|PronType=Prs|Accent=Stress|Case=Gen|Number=Sing|Person=1|Poss=Yes	7	nmod:poss		
+7	unuwašḫan	unuwasha-	NOUN	-	Gloss=ornament|Gender=Com|Number=Sing|Case=Acc	5	conj		
+8	uppaḫḫun	uppa-	VERB	-	Gloss=send|VerbForm=Fin|Mood=Ind|Tense=Past|Person=1|Number=Sing	0	root		
+
+# ammuk SIG5-in ANA ŠEŠ-YA=ya QATAMMA SIG5-in ēšdu
+1	ammuk	uk	PRON	-	PronType=Prs|Accent=Stress|Case=Dat|Number=Sing|Person=1	2	iobj		
+2	SIG5-in	āssu | SIG5	ADV	-	Gloss=good|-	0	root		
+3	ANA	*ANA*	ADP	-	Gloss=to|Language=Akk|Case=Dat	4	case		
+4	ŠEŠ	negna- | *AHU* | ŠEŠ	NOUN	-	Gloss=brother|Gender=Com|Number=Sing|Case=Dat	8	iobj		
+5	-YA	=mis | *-YA*	DET	-	Gloss=my|PronType=Prs|Accent=Clitic|Person=1|Poss=Yes|Number=Sing|Case=Nom	4	det:poss		
+6	=ya	=ya | *Ù*	CCONJ	CL	Gloss=and|Accent=Clitic|ConjType=Add	8	cc		
+7	QATAMMA	apenissan | *QATAMMA*	ADV	-	Gloss=in the same way|-	8	advmod		
+8	SIG5-in	āssu | SIG5	ADV	-	Gloss=good|-	2	conj		
+9	ēšdu	ēs-	AUX	-	Gloss=be|VerbForm=Fin|Mood=Imp|Person=3|Number=Sing	8	cop		
+
+# ŠEŠ-YA=ma=mu kuit kišan TÀŠPUR NIN-YA=wa=mu IŠPUR DUMU.MUNUS=wa=ta peḫḫi
+1	ŠEŠ	negna- | *AHU* | ŠEŠ	NOUN	-	Gloss=brother|Gender=Com|Number=Sing|Case=Voc	12	vocative		
+2	-YA	=mis | *-YA*	DET	-	Gloss=my|Language=Akk|PronType=Prs|Accent=Clitic|Person=1|Poss=Yes|Number=Sing	1	det:poss		
+3	=ma	=ma	PART	CL	Gloss=but|Accent=Clitic|ConjType=Adv	7	discourse		
+4	=mu	=mu	PRON	CL	Gloss=me|PronType=Prs|Accent=Clitic|Person=1|Number=Sing|Case=Dat	7	iobj		
+5	kuit	kuit	SCONJ	-	Gloss=as|-	7	mark		
+6	kišan	kissan	ADV	-	Gloss=so|-	7	advmod		
+7	TÀŠPUR	hatrae- | *ŠAPARU*	VERB	-	Gloss=write|Language=Akk|VerbForm=Fin|Mood=Ind|Tense=Past|Person=2|Number=Sing	12	advcl		
+8	NIN	nega- | *AHĀTU* | NIN	NOUN	-	Gloss=sister|Gender=Com|Case=Nom|Number=Sing	12	nsubj		
+9	-YA	=mis | *-YA*	DET	-	Gloss=my|Language=Akk|PronType=Prs|Accent=Clitic|Person=1|Poss=Yes|Number=Sing	8	det:poss		
+10	=wa	=wa	PART	CL	Accent=Clitic	12	discourse:quot		
+11	=mu	=mu	PRON	CL	Gloss=me|PronType=Prs|Accent=Clitic|Person=1|Number=Sing|Case=Dat	12	iobj		
+12	IŠPUR	hatrae- | *ŠAPARU*	VERB	-	Gloss=write|Language=Akk|VerbForm=Fin|Mood=Ind|Tense=Past|Person=3|Number=Sing	0	root		
+13	DUMU.MUNUS	duttariyati- | DUMU.MUNUS	NOUN	-	Gloss=daughter|Language=Sum|Gender=Com|Case=Acc|Number=Sing	16	obj		
+14	=wa	=wa	PART	CL	Accent=Clitic	16	discourse:quot		
+15	=ta	tuk	PRON	CL	Gloss=you|PronType=Prs|Accent=Clitic|Person=2|Number=Sing|Case=Dat	16	iobj		
+16	peḫḫi	pe-/pai-	VERB	-	Gloss=give|VerbForm=Fin|Mood=Ind|Tense=Pres|Person=1|Number=Sing	12	ccomp		
+
+# šiwariyat=ma=war=an=mu
+1	šiwariyat	siwarai-/siwariya-	VERB	-	Gloss=withhold|VerbForm=Fin|Mood=Ind|Tense=Past|Person=2|Number=Sing	0	root		
+2	=ma	=ma	PART	CL	Gloss=but|Accent=Clitic|ConjType=Adv	1	discourse		
+3	=war	=wa	PART	CL	Accent=Clitic	1	discourse:quot		
+4	=an	=a-	PRON	CL	Gloss=her|PronType=Prs|Accent=Clitic|Person=3|Number=Sing|Case=Acc|Gender=Com	1	obj		
+5	=mu	=mu	PRON	CL	Gloss=me|PronType=Prs|Accent=Clitic|Person=1|Number=Sing|Case=Dat	1	iobj		
+
+# nu=wa=mu=za kinun TUKU.TUKU-zaš
+1	nu	nu	PART	CL	Accent=Clitic	6	discourse		
+2	=wa	=wa	PART	CL	Accent=Clitic	6	discourse:quot		
+3	=mu	=mu	PRON	CL	Gloss=me|PronType=Prs|Accent=Clitic|Person=1|Number=Sing|Case=Dat	6	iobj		
+4	=za	=za	PART	CL	Accent=Clitic|Reflex=Yes	6	discourse:refl		
+5	kinun	kinun	ADV	-	Gloss=now|-	6	advmod		
+6	TUKU.TUKU-zaš	kardimmiya- | TUKU.TUKU	VERB	-	Gloss=be.angry|VerbForm=Fin|Mood=Ind|Tense=Past|Person=2|Number=Sing	0	root		
+
+# kuwat=war=an=mu kinun ŪL pešta
+1	kuwat	kuwat	PRON	-	Gloss=why|PronType=Int	7	advmod		
+2	=war	=wa	PART	CL	Accent=Clitic	7	discourse:quot		
+3	=an	=a-	PRON	CL	Gloss=he/she|PronType=Prs|Accent=Clitic|Person=3|Number=Sing|Case=Acc|Gender=Com	7	obj		
+4	=mu	=mu	PRON	CL	Gloss=me|PronType=Prs|Accent=Clitic|Person=1|Number=Sing|Case=Dat	7	iobj		
+5	kinun	kinun	ADV	-	Gloss=now|-	7	advmod		
+6	ŪL	natta | *ŪL* | NU	PART	-	Gloss=not|Language=Akk|Polarity=Neg	7	advmod:neg		
+7	pešta	pe-/pai-	VERB	-	Gloss=give|VerbForm=Fin|Mood=Ind|Tense=Past|Person=2|Number=Sing	0	root		
+
+# DUMU.MUNUS-YA=ya iwaru=ya peḫḫi
+1	DUMU.MUNUS	duttariyati- | DUMU.MUNUS	NOUN	-	Gloss=daughter|Gender=Com|Case=Acc|Number=Sing	6	obj		
+2	-YA	=mis | *-YA*	DET	-	Gloss=my|PronType=Prs|Accent=Clitic|Person=1|Poss=Yes|Number=Sing	1	det:poss		
+3	=ya	=ya | *Ù*	CCONJ	CL	Gloss=and|Accent=Clitic|ConjType=Add	4	cc		
+4	iwaru	iwaru	NOUN	-	Gloss=dowry|Gender=Neut|Case=Acc|Number=Sing	1	conj		
+5	=ya	=ya | *Ù*	CCONJ	CL	Gloss=and|Accent=Clitic|ConjType=Add	4	cc		
+6	peḫḫi	pe-/pai-	VERB	-	Gloss=give|VerbForm=Fin|Mood=Ind|Tense=Pres|Person=1|Number=Sing	0	root		
+
+# n==at=za ŪL markiyaši
+1	n=	nu	PART	CL	Accent=Clitic	5	discourse		
+2	=at	=a-	PRON	CL	Gloss=it|PronType=Prs|Accent=Clitic|Person=3|Number=Sing|Case=Acc|Gender=Neut	5	obj		
+3	=za	=za	PART	CL	Accent=Clitic|Reflex=Yes	5	discourse:refl		
+4	ŪL	natta | *ŪL* | NU	PART	-	Gloss=not|Language=Akk|Polarity=Neg	5	advmod:neg		
+5	markiyaši	markiya-	VERB	-	Gloss=disapprove|VerbForm=Fin|Mood=Ind|Tense=Pres|Person=2|Number=Sing	0	root		
+
+# malāši=ya=at=za
+1	malāši	malai-	VERB	-	Gloss=approve|VerbForm=Fin|Mood=Ind|Tense=Pres|Person=2|Number=Sing	0	root		
+2	=ya	=ya | *Ù*	CCONJ	CL	Gloss=also|Accent=Clitic|ConjType=Add	1	discourse		
+3	=at	=a-	PRON	CL	Gloss=it|PronType=Prs|Accent=Clitic|Person=3|Number=Sing|Case=Acc	1	obj		
+4	=za	=za	PART	CL	Accent=Clitic|Reflex=Yes	1	discourse:refl		
+
+# kinun=ma=an=ta [...] pianna ŪL taraḫmi
+1	kinun	kinun	ADV	-	Gloss=now|-	8	advmod		
+2	=ma	=ma	PART	CL	Gloss=but|Accent=Clitic|ConjType=Adv	8	discourse		
+3	=an	=a-	PRON	CL	Gloss=her|PronType=Prs|Accent=Clitic|Person=3|Number=Sing|Case=Acc|Gender=Com	6	obj		
+4	=ta	tuk	PRON	CL	Gloss=you|PronType=Prs|Accent=Clitic|Person=2|Number=Sing|Case=Dat	6	iobj		
+5	[...]	FRGM	X	-	-	8	dep		
+6	pianna	pe-/pai-	VERB	-	Gloss=give|VerbForm=Inf	8	xcomp		
+7	ŪL	natta | *ŪL* | NU	PART	-	Gloss=not|Language=Akk|Polarity=Neg	8	advmod:neg		
+8	taraḫmi	tarh-	VERB	-	Gloss=be.able|VerbForm=Fin|Mood=Ind|Tense=Pres|Person=1|Number=Sing	0	root		
+
+# LÚ [...]
+1	LÚ	LÚ	PART	DTR	Gloss=person|-	2	clf		
+2	[...]	FRGM	X	-	-	0	root		
+
+# É KUR URU Ḫatti=za ŠEŠ-YA GIM-an šakti n==at=za ammuk ŪL šaggaḫḫi n==at arḫa arnuwan É-er [...]
+1	É	pir/parn- | *BlTU* | É	NOUN	-	Gloss=house|Gender=Com|Case=Nom|Number=Sing	19	dislocated		
+2	KUR	udne- | *MATU* | KUR	NOUN	-	Gloss=land|Gender=Com|Case=Gen|Number=Sing	1	nmod:poss		
+3	URU	URU	NOUN	DTR	Gloss=city|-	4	clf		
+4	Ḫatti	Ḫatti	PROPN	-	Gender=Com|Case=Gen|Number=Sing	2	nmod:poss		
+5	=za	=za	PART	CL	Accent=Clitic|Reflex=Yes	9	discourse:refl		
+6	ŠEŠ	negna- | *AHU* | ŠEŠ	NOUN	-	Gloss=brother|Language=Sum|Gender=Com|Number=Sing|Case=Voc	9	vocative		
+7	-YA	=mis | *-YA*	DET	-	Gloss=my|Language=Akk|PronType=Prs|Accent=Clitic|Person=1|Poss=Yes|Number=Sing|Case=Nom	6	det:poss		
+8	GIM-an	mahhan | GIM	SCONJ	-	Gloss=as|-	9	mark		
+9	šakti	sak-	VERB	-	Gloss=know|VerbForm=Fin|Mood=Ind|Tense=Pres|Person=2|Number=Sing	19	advcl		
+10	n=	nu	PART	CL	Accent=Clitic	15	discourse		
+11	=at	=a-	PRON	CL	Gloss=it|PronType=Prs|Accent=Clitic|Person=3|Number=Sing|Case=Acc|Gender=Neut	15	obj		
+12	=za	=za	PART	CL	Accent=Clitic|Reflex=Yes	15	discourse:refl		
+13	ammuk	uk	PRON	-	PronType=Prs|Accent=Stress|Case=Nom|Number=Sing|Person=1	15	nsubj		
+14	ŪL	natta | *ŪL* | NU	PART	-	Gloss=not|Language=Akk|Polarity=Neg	15	advmod:neg		
+15	šaggaḫḫi	sak-	VERB	-	Gloss=know|VerbForm=Fin|Mood=Ind|Tense=Pres|Person=1|Number=Sing	19	parataxis		
+16	n=	nu	PART	CL	Accent=Clitic	19	discourse		
+17	=at	=a-	PRON	CL	Gloss=it|PronType=Prs|Accent=Clitic|Person=3|Number=Sing|Case=Nom|Gender=Neut	19	nsubj		
+18	arḫa	arha	ADV	-	Gloss=away|-	19	advmod		
+19	arnuwan	arnuwan	VERB	-	Gloss=relocate|VerbForm=Part|Voice=Pass|Tense=Past|Gender=Neut|Number=Sing|Case=Nom	0	root		
+20	É-er	pir/parn- | *BlTU* | É	NOUN	-	Gloss=house|Gender=Com|Case=Nom|Number=Sing	19	dislocated		
+21	[...]	FRGM	X	-	-	19	dep		
+
+# āšta=ma=kan kuit n==at=kan m Urḫi-dU-upaš ANA DINGIR GAL pešta
+1	āšta	ās-	VERB	-	Gloss=remain|VerbForm=Fin|Mood=Ind|Tense=Past|Person=3|Number=Sing	13	advcl		
+2	=ma	=ma	PART	CL	Gloss=but|Accent=Clitic|ConjType=Adv	1	discourse		
+3	=kan	=kan	PART	CL	Accent=Clitic|PartType=Loc	1	advmod:lmod		
+4	kuit	kuit	SCONJ	-	Gloss=as|-	1	mark		
+5	n=	nu	PART	CL	Accent=Clitic	13	discourse		
+6	=at	=a-	PRON	CL	Gloss=it|PronType=Prs|Accent=Clitic|Person=3|Number=Sing|Case=Acc|Gender=Neut	13	obj		
+7	=kan	=kan	PART	CL	Accent=Clitic|PartType=Loc	13	advmod:lmod		
+8	m	m	PART	DTR	Gloss=man|Language=Sum	9	clf		
+9	Urḫi-dU-upaš	Urhi-Tessup-	PROPN	-	Gender=Com|Case=Nom|Number=Sing	13	nsubj		
+10	ANA	*ANA*	ADP	-	Gloss=to|Language=Akk|Case=Dat	11	case		
+11	DINGIR	siu-/siuni- | DINGIR	NOUN	-	Gloss=god|Language=Sum|Gender=Com|Case=Dat|Number=Sing		13	iobj		
+12	GAL	salli- | GAL	ADJ	-	Gloss=great  |Language=Sum|Gender=Com|Number=Sing|Case=Dat|Degree=Pos	11	amod		
+13	pešta	pe-/pai-	VERB	-	Gloss=give|VerbForm=Fin|Mood=Ind|Tense=Past|Person=3|Number=Sing	0	root		

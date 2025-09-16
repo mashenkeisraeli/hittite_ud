@@ -1,0 +1,37 @@
+,FORM,LEMMA,UPOS,XPOS,FEATS,DEPREL
+0,-KA,=ttis | *-KA*,DET,-,Gloss=your|Language=Akk|PronType=Prs|Accent=Clitic|Person=2|Poss=Yes|Number=Sing|Case=Nom,det:poss
+1,-YA,=mis | *-YA*,DET,-,Gloss=my|Language=Akk|PronType=Prs|Poss=Yes|Person=1|Number=Sing|Accent=Clitic,det:poss
+2,=[…],FRGM,X,-,-,root
+3,=at,=a-,PRON,CL,Gloss=it|PronType=Prs|Accent=Clitic|Person=3|Number=Sing|Case=Acc,iobj
+4,=kan,=kan,PART,CL,Accent=Clitic|PartType=Loc,advmod:lmod
+5,=ma,=ma,PART,CL,Gloss=but|Accent=Clitic|ConjType=Adv,discourse
+6,=mu,=mu,PRON,CL,Gloss=me|PronType=Prs|Accent=Clitic|Person=1|Number=Sing|Case=Dat,iobj
+7,=wa,=wa,PART,CL,Accent=Clitic,discourse:quot
+8,=ya,=ya | *Ù*,CCONJ,CL,Gloss=and|Accent=Clitic|ConjType=Add,cc
+9,=za,=za,PART,CL,Accent=Clitic|Reflex=Yes,discourse:refl
+10,ANA,*ANA*,ADP,-,Gloss=to|Language=Akk|Case=Dat,case
+11,EGIR-pa,appa | EGIR,ADV,-,Gloss=back|Language=Sum,advmod
+12,GIM-an,mahhan | GIM,SCONJ,-,Gloss=as|-,mark
+13,IŠTU,*IŠTU*,ADP,-,Gloss=with|Language=Akk|Case=Instr,case
+14,LÚ.MEŠ,antuhsa- | LÚ,PART,DTR,Gloss=person|Language=Sum|Number=Plur,clf
+15,NA4,NA4,PART,DTR,Gloss=stone|Language=Sum,clf
+16,QATAMMA,apenissan | *QATAMMA*,ADV,-,Gloss=in the same way|Language=Akk,advmod
+17,SIG5-in,āssu | SIG5,ADV,-,Gloss=good|-,root
+18,TI-tar,huisnu- | TI,NOUN,-,Gloss=life|Language=Sum|Gender=Com|Number=Sing|Case=Nom,nsubj
+19,ZA.GÌN,ZA.GÌN,NOUN,-,Gloss=lapis lazuli|Language=Sum|Number=Sing|Case=Instr,obl
+20,ammel,uk,PRON,-,Gloss=my|PronType=Prs|Accent=Stress|Case=Gen|Number=Sing|Person=1|Poss=Yes,nmod:poss
+21,apiya,apiya,ADV,-,Gloss=there|-,advcl
+22,aššulan,assul- | SILIM,NOUN,-,Gloss=greeting|Gender=Com|Number=Sing|Case=Acc,obj
+23,kinun,kinun,ADV,-,Gloss=now|-,advmod
+24,kišan,kissan,ADV,-,Gloss=so|-,advcl
+25,kuit,kuit,SCONJ,-,Gloss=as|-,mark
+26,kuwapi,kuwapi,ADV,-,Gloss=while|PronType=Int,advmod
+27,kuwat,kuwat,PRON,-,Gloss=why|PronType=Int,advmod
+28,m,m,PART,DTR,Gloss=man|Language=Sum,clf
+29,mān,mān,SCONJ,-,Gloss=if|-,mark
+30,n=,nu,PART,CL,Accent=Clitic,discourse
+31,namma,namma,ADV,-,Gloss=then|-,advmod
+32,ŠA,*ŠA*,ADP,-,Gloss=of|Language=Akk|Case=Gen,case
+33,ŠEŠ,negna- | *AHU* | ŠEŠ,NOUN,-,Gloss=brother|Language=Sum|Gender=Com|Number=Sing|Case=Gen,nmod:poss
+34,šuwaru,suwaru,ADJ,-,Gloss=full|Gender=Com|Number=Sing|Case=Nom,root
+35,ŪL,natta | *ŪL* | NU,PART,-,Gloss=not|Language=Akk|Polarity=Neg,advmod:neg
