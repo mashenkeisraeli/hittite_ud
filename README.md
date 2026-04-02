@@ -26,5 +26,6 @@ Hagenbuchner, Albertine. 1989. Die Korrespondenz der Hethiter. 1. Teil. THeth 15
 Hoffner, H. 2009. Letters from the Hittite Kingdom. Society of Biblical Literature, Atlanta. <br>
 Inglese, G., Molina, M., and H. Eckhoff. 2018. Incorporating Hittite into PROIEL: a pilot project. // Andrew U. Frank, Christine Ivanovic, Francesco Mambrini, Marco Passarotti, and Caroline Sporlede, eds., Proceedings of the Second Workshop on Corpus-based Research in the Humanities, pp. 95–104. <br>
 Molina, M. 2023. Universal dependencies for Hittite. // Computational Perspectives on Ancient Near Eastern Literature, Art and Material Culture, February 19th-21st, 2023. Tel Aviv. <br>
+Molina,M. 2026. From Cuneiform to Corpus: Building Universal Dependencies for Hittite Letters. // Ancient World Seminar, University of Melbourne. 2 April 2026. Invited lecture. https://unimelb.zoom.us/rec/share/EFlYti4uboFDND0e6x5S3LxMTvU0ApngZR2ZAWaxtpJXhsp0zHYcXEiRlvi2TMY.shqp7f-IHLuykvoq (passcode: *sjb5JS0) <br>
 Yavasan, E., Molina, M. 2024. Universal Dependencies for the Queen Puduheba. // Digital Humanities and Social Sciences (DHSS) in Israel, 21 May 2024. Tel Aviv University.<br>
 Yavasan, E., Molina, M. 2025. Universal Dependencies for Hittite. // Bytes and Bygones – Digital and Computational Analyses of Ancient Cultures, 16 September 2025. Ghent University. <br>
