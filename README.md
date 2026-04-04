@@ -1,10 +1,10 @@
 # authors
-Maria Molina, Ph.D., AHEC (Akkadian and Hittite Emotions in Context), Tel Aviv University. mashenke@tauex.tau.ac.il <br>
+Maria Molina, Ph.D., AHEC (Akkadian and Hittite Emotions in Context), Tel Aviv University, School of Jewish studies. mashenke@tauex.tau.ac.il <br>
 Emma Yavasan, Digital Pasts Lab, Ariel University. emma.yavasan@msmail.ariel.ac.il<br>
 
 # hittite_ud
 This is to represent a project dedicated to the development of a Universal Dependencies (UD) treebank for Hittite, the most ancient of Indo-European languages attested in writing. To date, only a single Hittite treebank utilizing UD annotation exists, and it is built on examples from a textbook (Andersen, Rozonoyer 2020), not on critical editions of the Hittite texts. Previously, a pilot project for UD annotation of Hittite was initiated by a co-author of this paper within the PROIEL databases framework (Inglese et al. 2018). <br>
-This UD treebank is being built on the material of Hittite letters, as published by (Hoffner 2009), Edel (1994), and Hagenbuchner (1989), represented in the Annotated Corpus of Hittite Clauses (ACHC), with additions and corrections according to the dataset published in May 2-25 by TLHdig project (Hetitologie Portal Mainz). It includes updates for the latest UD annotation format (UD v. 2.16, May 2025).<br>
+This UD treebank is being built on the material of Hittite letters, as published by (Hoffner 2009), Edel (1994), and Hagenbuchner (1989), represented in the Annotated Corpus of Hittite Clauses (ACHC) https://hittitecorpus.com/, with additions and corrections according to the dataset published in May 2-25 by TLHdig project (Hetitologie Portal Mainz). It includes updates for the latest UD annotation format (UD v. 2.16, May 2025).<br>
 
 # annotation guidelines
 We use UD general guidelines as much as possible; for language-specific features of Hittite see "Hittite UD -- Guidelines" in the project files.<br>
@@ -12,7 +12,7 @@ Dataset is organized as conllu-files. Recommended viewer: https://universaldepen
 
 # materials
 ud_hett.config: JSON with cherry-picked categories for Hittite.<br>
-puduheba_letter_2026_04_03.conllu: annotated and proofred showcase.<br>
+puduheba_letter_2026_04_04.conllu: annotated and proofred showcase.<br>
 
 # references
 ACHC. – Molina, M. 2015-2024. Annotated Corpus of Hittite Clauses, http://hittitecorpus.com <br>
