@@ -1,6 +1,6 @@
 # authors
-Maria Molina, Ph.D., **AHEC (Akkadian and Hittite Emotions in Context)**, Tel Aviv University, School of Jewish studies [mashenke@tauex.tau.ac.il](mashenke@tauex.tau.ac.il) <br>
-Emma Yavasan, Digital Pasts Lab, Ariel University. [emma.yavasan@msmail.ariel.ac.il](emma.yavasan@msmail.ariel.ac.il)<br>
+Maria Molina, Ph.D., **AHEC (Akkadian and Hittite Emotions in Context)**, Tel Aviv University, School of Jewish studies: mashenke@tauex.tau.ac.il <br>
+Emma Yavasan, Digital Pasts Lab, Ariel University: emma.yavasan@msmail.ariel.ac.il<br>
 
 # hittite_ud
 This is to represent a project dedicated to the development of a Universal Dependencies (UD) treebank for Hittite, the most ancient of Indo-European languages attested in writing. To date, only a single Hittite treebank utilizing UD annotation exists, and it is built on examples from a textbook (Andersen, Rozonoyer 2020), not on critical editions of the Hittite texts. Previously, a pilot project for UD annotation of Hittite was initiated by a co-author of this paper within the PROIEL databases framework (Inglese et al. 2018). <br>
