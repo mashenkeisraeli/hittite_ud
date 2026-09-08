@@ -1,0 +1,133 @@
+<svg width="210.2782440185547" height="152.22222328186035" class="interactive" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .interactive > .FORM,
+  .interactive > .LEMMA,
+  .interactive > .UPOS,
+  .interactive > .DEPREL {
+    cursor: pointer;
+  }
+  
+  .FORM {
+    font-size: 16px;
+    z-index: 99;
+  }
+  
+  .LEMMA {
+    font-size: 13px;
+    font-style: italic;
+  }
+  
+  .UPOS, .XPOS {
+    font: 11px DejaVu Sans;
+  }
+  
+  .XPOS {
+      font-style: italic;
+  }
+  
+  
+  .DEPREL, .DEPRELenhanced {
+    font: 12px Arial;
+    font-family: sans-serif;
+    z-index: 99;
+  }
+  
+  .FEATS, .MISC {
+    font-size: 10px;
+  }
+  
+  .glossy {
+    font-style: italic;
+  }
+
+  .arrowhead, .curve, .arrowheadenhanced, .curveenhanced, .dragcurve {
+      pointer-events: none;
+      fill: none;
+    }
+
+  .curve, .curveenhanced {
+    stroke-width: 1.1;
+    z-index: 0;
+  }
+  
+  .dragcurve {
+    stroke-width: 2;
+  }
+
+  .arrowhead, .arrowheadenhanced {
+    stroke-width: 0.8;
+  }
+
+    
+    .FORM, .LEMMA {
+      fill: black;
+    }
+
+    .UPOS, .DEPREL, .DEPRELenhanced {
+      fill: #4a0984;;
+    }
+
+    .FEATS, .MISC, .XPOS {
+      fill: #b352ac;
+    }
+
+    .UPOS.diff,
+    .DEPREL.diff {
+      fill: red;
+    }
+
+    .arrowhead, .arrowheadenhanced {
+      fill: white;
+    }
+
+    .arrowhead, .curve {
+      stroke: black;
+    }
+
+    .arrowheadenhanced, .curveenhanced {
+      stroke: blue;
+    }
+
+    .arrowhead.diff, .curve.diff {
+      stroke: red;
+    }
+
+    .dragcurve, .dragarrowhead {
+      stroke: #ffb424;
+    }
+
+    .glossy {
+      fill: #ffb424;
+    }
+  svg {background-color: white}</style> 
+<defs>
+</defs>
+<text x="17.488540649414062" y="90" class="FORM">
+SAG.DU-an</text>
+<text x="39.49800491333008" y="110" class="UPOS">
+NOUN</text>
+<text x="12.5" y="130" class="LEMMA">
+haršar|SAG.DU</text>
+<text x="30.082271575927734" y="150" class="MISC">
+Gloss=head</text>
+<text x="125.30343627929688" y="90" class="FORM">
+kurandu</text>
+<text x="138.60752391815186" y="110" class="UPOS">
+VERB</text>
+<text x="138.74231815338135" y="130" class="LEMMA">
+kuer-</text>
+<text x="131.62954330444336" y="150" class="MISC">
+Gloss=cut</text>
+<path d="M56.40171813964844,72 C56.40171813964844,50 145.04084014892578,50 145.04084014892578,72" class="curve">
+</path>
+<path d="M56.40171813964844,72c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="92.38697910308838" y="50.5" class="DEPREL">
+obj</text>
+<path d="M154.04084014892578,72 L154.04084014892578,0 " class="curve">
+</path>
+<path d="M154.04084014892578,72c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="163.15479564666748" y="30" class="DEPREL">
+root</text>
+</svg>

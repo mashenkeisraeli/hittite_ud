@@ -1,0 +1,217 @@
+<svg width="616.1259136199951" height="293.3333578109741" class="interactive" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .interactive > .FORM,
+  .interactive > .LEMMA,
+  .interactive > .UPOS,
+  .interactive > .DEPREL {
+    cursor: pointer;
+  }
+  
+  .FORM {
+    font-size: 16px;
+    z-index: 99;
+  }
+  
+  .LEMMA {
+    font-size: 13px;
+    font-style: italic;
+  }
+  
+  .UPOS, .XPOS {
+    font: 11px DejaVu Sans;
+  }
+  
+  .XPOS {
+      font-style: italic;
+  }
+  
+  
+  .DEPREL, .DEPRELenhanced {
+    font: 12px Arial;
+    font-family: sans-serif;
+    z-index: 99;
+  }
+  
+  .FEATS, .MISC {
+    font-size: 10px;
+  }
+  
+  .glossy {
+    font-style: italic;
+  }
+
+  .arrowhead, .curve, .arrowheadenhanced, .curveenhanced, .dragcurve {
+      pointer-events: none;
+      fill: none;
+    }
+
+  .curve, .curveenhanced {
+    stroke-width: 1.1;
+    z-index: 0;
+  }
+  
+  .dragcurve {
+    stroke-width: 2;
+  }
+
+  .arrowhead, .arrowheadenhanced {
+    stroke-width: 0.8;
+  }
+
+    
+    .FORM, .LEMMA {
+      fill: black;
+    }
+
+    .UPOS, .DEPREL, .DEPRELenhanced {
+      fill: #4a0984;;
+    }
+
+    .FEATS, .MISC, .XPOS {
+      fill: #b352ac;
+    }
+
+    .UPOS.diff,
+    .DEPREL.diff {
+      fill: red;
+    }
+
+    .arrowhead, .arrowheadenhanced {
+      fill: white;
+    }
+
+    .arrowhead, .curve {
+      stroke: black;
+    }
+
+    .arrowheadenhanced, .curveenhanced {
+      stroke: blue;
+    }
+
+    .arrowhead.diff, .curve.diff {
+      stroke: red;
+    }
+
+    .dragcurve, .dragarrowhead {
+      stroke: #ffb424;
+    }
+
+    .glossy {
+      fill: #ffb424;
+    }
+  svg {background-color: white}</style> 
+<defs>
+</defs>
+<text x="17.93997097015381" y="250" class="FORM">
+nu</text>
+<text x="12.5" y="270" class="UPOS">
+PART</text>
+<text x="18.76760768890381" y="290" class="LEMMA">
+nu</text>
+<text x="26.79847812652588" y="310" class="MISC">
+</text>
+<text x="66.09695625305176" y="250" class="FORM">
+=wa</text>
+<text x="66.645263671875" y="270" class="UPOS">
+PART</text>
+<text x="68.04740238189697" y="290" class="LEMMA">
+=wa</text>
+<text x="80.94374179840088" y="310" class="MISC">
+</text>
+<text x="120.79052734375" y="250" class="FORM">
+=mu</text>
+<text x="120.9489221572876" y="270" class="UPOS">
+PRON</text>
+<text x="122.92847061157227" y="290" class="LEMMA">
+=mu</text>
+<text x="136.63731479644775" y="310" class="MISC">
+</text>
+<text x="177.4841022491455" y="250" class="FORM">
+=kan</text>
+<text x="180.4269380569458" y="270" class="UPOS">
+PART</text>
+<text x="179.8835220336914" y="290" class="LEMMA">
+=kan</text>
+<text x="194.72541618347168" y="310" class="MISC">
+</text>
+<text x="264.21301078796387" y="250" class="FORM">
+ŠÀ</text>
+<text x="258.20078468322754" y="270" class="UPOS">
+NOUN</text>
+<text x="236.96673011779785" y="290" class="LEMMA">
+ker-/kard-|ŠÀ</text>
+<text x="275.1044979095459" y="310" class="MISC">
+</text>
+<text x="338.24226570129395" y="250" class="FORM">
+KUR.KUR.MEŠ</text>
+<text x="372.6753520965576" y="270" class="UPOS">
+NOUN</text>
+<text x="339.39332008361816" y="290" class="LEMMA">
+udne-|MATU|KUR</text>
+<text x="389.5790729522705" y="310" class="MISC">
+</text>
+<text x="465.91588020324707" y="250" class="FORM">
+ḫalkiš</text>
+<text x="469.75868797302246" y="270" class="UPOS">
+NOUN</text>
+<text x="470.28481101989746" y="290" class="LEMMA">
+ḫalki-</text>
+<text x="486.66240882873535" y="310" class="MISC">
+</text>
+<text x="532.4089374542236" y="250" class="FORM">
+NU.GÁL</text>
+<text x="546.2189559936523" y="270" class="UPOS">
+PART</text>
+<text x="537.4014949798584" y="290" class="LEMMA">
+NU.GÁL</text>
+<text x="560.5174255371094" y="310" class="MISC">
+</text>
+<path d="M26.79847812652588,232 C26.79847812652588,10 551.5174255371094,10 551.5174255371094,232" class="curve">
+</path>
+<path d="M26.79847812652588,232c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="248.83676958084106" y="60.5" class="DEPREL">
+discourse:conn</text>
+<path d="M80.94374179840088,232 C80.94374179840088,50 551.5174255371094,50 551.5174255371094,232" class="curve">
+</path>
+<path d="M80.94374179840088,232c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="276.68660020828247" y="90.5" class="DEPREL">
+discourse:quot</text>
+<path d="M136.63731479644775,232 C136.63731479644775,90 551.5174255371094,90 551.5174255371094,232" class="curve">
+</path>
+<path d="M136.63731479644775,232c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="334.41130018234253" y="120.5" class="DEPREL">
+iobj</text>
+<path d="M194.72541618347168,232 C194.72541618347168,130 551.5174255371094,130 551.5174255371094,232" class="curve">
+</path>
+<path d="M194.72541618347168,232c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="337.1318349838257" y="150.5" class="DEPREL">
+advmod:lmod</text>
+<path d="M275.1044979095459,232 C275.1044979095459,170 551.5174255371094,170 551.5174255371094,232" class="curve">
+</path>
+<path d="M275.1044979095459,232c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="390.6460294723511" y="180.5" class="DEPREL">
+obl:lmod</text>
+<path d="M389.5790729522705,232 C389.5790729522705,210 284.1044979095459,210 284.1044979095459,232" class="curve">
+</path>
+<path d="M389.5790729522705,232c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="307.183292388916" y="210.5" class="DEPREL">
+nmod:poss</text>
+<path d="M486.66240882873535,232 C486.66240882873535,210 551.5174255371094,210 551.5174255371094,232" class="curve">
+</path>
+<path d="M486.66240882873535,232c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="504.42459297180176" y="210.5" class="DEPREL">
+nsubj</text>
+<path d="M560.5174255371094,232 L560.5174255371094,0 " class="curve">
+</path>
+<path d="M560.5174255371094,232c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="569.6313638687134" y="30" class="DEPREL">
+root</text>
+</svg>

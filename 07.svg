@@ -1,0 +1,175 @@
+<svg width="373.9549369812012" height="173.33334255218506" class="interactive" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .interactive > .FORM,
+  .interactive > .LEMMA,
+  .interactive > .UPOS,
+  .interactive > .DEPREL {
+    cursor: pointer;
+  }
+  
+  .FORM {
+    font-size: 16px;
+    z-index: 99;
+  }
+  
+  .LEMMA {
+    font-size: 13px;
+    font-style: italic;
+  }
+  
+  .UPOS, .XPOS {
+    font: 11px DejaVu Sans;
+  }
+  
+  .XPOS {
+      font-style: italic;
+  }
+  
+  
+  .DEPREL, .DEPRELenhanced {
+    font: 12px Arial;
+    font-family: sans-serif;
+    z-index: 99;
+  }
+  
+  .FEATS, .MISC {
+    font-size: 10px;
+  }
+  
+  .glossy {
+    font-style: italic;
+  }
+
+  .arrowhead, .curve, .arrowheadenhanced, .curveenhanced, .dragcurve {
+      pointer-events: none;
+      fill: none;
+    }
+
+  .curve, .curveenhanced {
+    stroke-width: 1.1;
+    z-index: 0;
+  }
+  
+  .dragcurve {
+    stroke-width: 2;
+  }
+
+  .arrowhead, .arrowheadenhanced {
+    stroke-width: 0.8;
+  }
+
+    
+    .FORM, .LEMMA {
+      fill: black;
+    }
+
+    .UPOS, .DEPREL, .DEPRELenhanced {
+      fill: #4a0984;;
+    }
+
+    .FEATS, .MISC, .XPOS {
+      fill: #b352ac;
+    }
+
+    .UPOS.diff,
+    .DEPREL.diff {
+      fill: red;
+    }
+
+    .arrowhead, .arrowheadenhanced {
+      fill: white;
+    }
+
+    .arrowhead, .curve {
+      stroke: black;
+    }
+
+    .arrowheadenhanced, .curveenhanced {
+      stroke: blue;
+    }
+
+    .arrowhead.diff, .curve.diff {
+      stroke: red;
+    }
+
+    .dragcurve, .dragarrowhead {
+      stroke: #ffb424;
+    }
+
+    .glossy {
+      fill: #ffb424;
+    }
+  svg {background-color: white}</style> 
+<defs>
+</defs>
+<text x="17.98771381378174" y="130" class="FORM">
+n=</text>
+<text x="12.5" y="150" class="UPOS">
+PART</text>
+<text x="18.76760768890381" y="170" class="LEMMA">
+nu</text>
+<text x="26.79847812652588" y="190" class="MISC">
+</text>
+<text x="69.04229259490967" y="130" class="FORM">
+=aš</text>
+<text x="66.09695625305176" y="150" class="UPOS">
+PRON</text>
+<text x="71.90455341339111" y="170" class="LEMMA">
+=a-</text>
+<text x="81.78534889221191" y="190" class="MISC">
+</text>
+<text x="122.47374153137207" y="130" class="FORM">
+kēdaš</text>
+<text x="132.07669925689697" y="150" class="UPOS">
+DET</text>
+<text x="134.2374210357666" y="170" class="LEMMA">
+ka-</text>
+<text x="143.84527015686035" y="190" class="MISC">
+</text>
+<text x="210.4719944000244" y="130" class="FORM">
+KUR-eaš</text>
+<text x="223.49883842468262" y="150" class="UPOS">
+NOUN</text>
+<text x="190.21679878234863" y="170" class="LEMMA">
+udne-|MATU|KUR</text>
+<text x="240.40255165100098" y="190" class="MISC">
+</text>
+<text x="321.8922872543335" y="130" class="FORM">
+uit</text>
+<text x="315.5883045196533" y="150" class="UPOS">
+VERB</text>
+<text x="316.2404308319092" y="170" class="LEMMA">
+uwa-</text>
+<text x="331.02162075042725" y="190" class="MISC">
+</text>
+<path d="M26.79847812652588,112 C26.79847812652588,10 322.02162075042725,10 322.02162075042725,112" class="curve">
+</path>
+<path d="M26.79847812652588,112c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="134.0888671875" y="30.5" class="DEPREL">
+discourse:conn</text>
+<path d="M81.78534889221191,112 C81.78534889221191,50 322.02162075042725,50 322.02162075042725,112" class="curve">
+</path>
+<path d="M81.78534889221191,112c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="187.23815202713013" y="60.5" class="DEPREL">
+nsubj</text>
+<path d="M143.84527015686035,112 C143.84527015686035,90 231.40255165100098,90 231.40255165100098,112" class="curve">
+</path>
+<path d="M143.84527015686035,112c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="178.734055519104" y="90.5" class="DEPREL">
+det</text>
+<path d="M240.40255165100098,112 C240.40255165100098,90 322.02162075042725,90 322.02162075042725,112" class="curve">
+</path>
+<path d="M240.40255165100098,112c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="272.8777861595154" y="90.5" class="DEPREL">
+obl</text>
+<path d="M331.02162075042725,112 L331.02162075042725,0 " class="curve">
+</path>
+<path d="M331.02162075042725,112c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="340.13557624816895" y="30" class="DEPREL">
+root</text>
+</svg>

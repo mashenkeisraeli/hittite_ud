@@ -1,0 +1,315 @@
+<svg width="1271.2978973388672" height="213.33334255218506" class="interactive" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .interactive > .FORM,
+  .interactive > .LEMMA,
+  .interactive > .UPOS,
+  .interactive > .DEPREL {
+    cursor: pointer;
+  }
+  
+  .FORM {
+    font-size: 16px;
+    z-index: 99;
+  }
+  
+  .LEMMA {
+    font-size: 13px;
+    font-style: italic;
+  }
+  
+  .UPOS, .XPOS {
+    font: 11px DejaVu Sans;
+  }
+  
+  .XPOS {
+      font-style: italic;
+  }
+  
+  
+  .DEPREL, .DEPRELenhanced {
+    font: 12px Arial;
+    font-family: sans-serif;
+    z-index: 99;
+  }
+  
+  .FEATS, .MISC {
+    font-size: 10px;
+  }
+  
+  .glossy {
+    font-style: italic;
+  }
+
+  .arrowhead, .curve, .arrowheadenhanced, .curveenhanced, .dragcurve {
+      pointer-events: none;
+      fill: none;
+    }
+
+  .curve, .curveenhanced {
+    stroke-width: 1.1;
+    z-index: 0;
+  }
+  
+  .dragcurve {
+    stroke-width: 2;
+  }
+
+  .arrowhead, .arrowheadenhanced {
+    stroke-width: 0.8;
+  }
+
+    
+    .FORM, .LEMMA {
+      fill: black;
+    }
+
+    .UPOS, .DEPREL, .DEPRELenhanced {
+      fill: #4a0984;;
+    }
+
+    .FEATS, .MISC, .XPOS {
+      fill: #b352ac;
+    }
+
+    .UPOS.diff,
+    .DEPREL.diff {
+      fill: red;
+    }
+
+    .arrowhead, .arrowheadenhanced {
+      fill: white;
+    }
+
+    .arrowhead, .curve {
+      stroke: black;
+    }
+
+    .arrowheadenhanced, .curveenhanced {
+      stroke: blue;
+    }
+
+    .arrowhead.diff, .curve.diff {
+      stroke: red;
+    }
+
+    .dragcurve, .dragarrowhead {
+      stroke: #ffb424;
+    }
+
+    .glossy {
+      fill: #ffb424;
+    }
+  svg {background-color: white}</style> 
+<defs>
+</defs>
+<text x="12.5" y="170" class="FORM">
+ANA</text>
+<text x="17.77859115600586" y="190" class="UPOS">
+ADP</text>
+<text x="15.672141075134277" y="210" class="LEMMA">
+ANA</text>
+<text x="29.603288650512695" y="230" class="MISC">
+</text>
+<text x="71.70657730102539" y="170" class="FORM">
+DAM</text>
+<text x="72.17265701293945" y="190" class="UPOS">
+NOUN</text>
+<text x="73.97366905212402" y="210" class="LEMMA">
+DAM</text>
+<text x="89.07637023925781" y="230" class="MISC">
+</text>
+<text x="132.37937355041504" y="170" class="FORM">
+ŠA</text>
+<text x="131.44616317749023" y="190" class="UPOS">
+ADP</text>
+<text x="134.49096965789795" y="210" class="LEMMA">
+ŠA</text>
+<text x="143.27086067199707" y="230" class="MISC">
+</text>
+<text x="213.80830097198486" y="170" class="FORM">
+ŠEŠ</text>
+<text x="212.1302833557129" y="190" class="UPOS">
+NOUN</text>
+<text x="180.0955581665039" y="210" class="LEMMA">
+negna-|AḪU|ŠEŠ</text>
+<text x="229.03399658203125" y="230" class="MISC">
+</text>
+<text x="314.17659187316895" y="170" class="FORM">
+-KA</text>
+<text x="315.74177074432373" y="190" class="UPOS">
+DET</text>
+<text x="302.9724349975586" y="210" class="LEMMA">
+=ttiš|-KA</text>
+<text x="327.51034927368164" y="230" class="MISC">
+</text>
+<text x="387.34291076660156" y="170" class="FORM">
+TI-tar</text>
+<text x="389.3380661010742" y="190" class="UPOS">
+NOUN</text>
+<text x="377.0482635498047" y="210" class="LEMMA">
+huišnu-|TI</text>
+<text x="406.2417697906494" y="230" class="MISC">
+</text>
+<text x="460.43527603149414" y="170" class="FORM">
+šuwaru</text>
+<text x="475.09103775024414" y="190" class="UPOS">
+ADJ</text>
+<text x="464.4628677368164" y="210" class="LEMMA">
+šuwaru</text>
+<text x="486.36017990112305" y="230" class="MISC">
+</text>
+<text x="549.1557426452637" y="170" class="FORM">
+SAG.DU-i</text>
+<text x="564.3179969787598" y="190" class="UPOS">
+NOUN</text>
+<text x="537.285083770752" y="210" class="LEMMA">
+ḫaršar|SAG.DU</text>
+<text x="581.2217178344727" y="230" class="MISC">
+</text>
+<text x="651.0915451049805" y="170" class="FORM">
+ŠA</text>
+<text x="650.1583518981934" y="190" class="UPOS">
+ADP</text>
+<text x="653.203125" y="210" class="LEMMA">
+ŠA</text>
+<text x="661.9830322265625" y="230" class="MISC">
+</text>
+<text x="732.5204477310181" y="170" class="FORM">
+ŠEŠ</text>
+<text x="730.8424224853516" y="190" class="UPOS">
+NOUN</text>
+<text x="698.8077125549316" y="210" class="LEMMA">
+negna-|AḪU|ŠEŠ</text>
+<text x="747.7461433410645" y="230" class="MISC">
+</text>
+<text x="834.4475688934326" y="170" class="FORM">
+-YA</text>
+<text x="835.434642791748" y="190" class="UPOS">
+DET</text>
+<text x="821.6845741271973" y="210" class="LEMMA">
+=miš|-YA</text>
+<text x="847.2032051086426" y="230" class="MISC">
+</text>
+<text x="908.0165004730225" y="170" class="FORM">
+TI-tar</text>
+<text x="910.0116386413574" y="190" class="UPOS">
+NOUN</text>
+<text x="897.7218360900879" y="210" class="LEMMA">
+huišnu-|TI</text>
+<text x="926.9153594970703" y="230" class="MISC">
+</text>
+<text x="981.1088829040527" y="170" class="FORM">
+šuwaru</text>
+<text x="995.764645576477" y="190" class="UPOS">
+ADJ</text>
+<text x="985.1364917755127" y="210" class="LEMMA">
+šuwaru</text>
+<text x="1007.0338039398193" y="230" class="MISC">
+</text>
+<text x="1081.4798774719238" y="170" class="FORM">
+QATAMMA</text>
+<text x="1108.0371236801147" y="190" class="UPOS">
+ADV</text>
+<text x="1057.958724975586" y="210" class="LEMMA">
+apeniššan|QATAMMA</text>
+<text x="1120.972915649414" y="230" class="MISC">
+</text>
+<text x="1208.9871063232422" y="170" class="FORM">
+ēšdu</text>
+<text x="1213.4567098617554" y="190" class="UPOS">
+AUX</text>
+<text x="1216.7497606277466" y="210" class="LEMMA">
+ēš-</text>
+<text x="1226.3925018310547" y="230" class="MISC">
+</text>
+<path d="M29.603288650512695,152 C29.603288650512695,130 80.07637023925781,130 80.07637023925781,152" class="curve">
+</path>
+<path d="M29.603288650512695,152c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="42.17489814758301" y="130.5" class="DEPREL">
+case</text>
+<path d="M89.07637023925781,152 C89.07637023925781,50 477.36017990112305,50 477.36017990112305,152" class="curve">
+</path>
+<path d="M89.07637023925781,152c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="273.5522050857544" y="70.5" class="DEPREL">
+iobj</text>
+<path d="M143.27086067199707,152 C143.27086067199707,130 220.03399658203125,130 220.03399658203125,152" class="curve">
+</path>
+<path d="M143.27086067199707,152c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="168.9874973297119" y="130.5" class="DEPREL">
+case</text>
+<path d="M229.03399658203125,152 C229.03399658203125,90 98.07637023925781,90 98.07637023925781,152" class="curve">
+</path>
+<path d="M229.03399658203125,152c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="133.89669036865234" y="100.5" class="DEPREL">
+nmod:poss</text>
+<path d="M327.51034927368164,152 C327.51034927368164,130 238.03399658203125,130 238.03399658203125,152" class="curve">
+</path>
+<path d="M327.51034927368164,152c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="259.7754650115967" y="130.5" class="DEPREL">
+det:poss</text>
+<path d="M406.2417697906494,152 C406.2417697906494,130 477.36017990112305,130 477.36017990112305,152" class="curve">
+</path>
+<path d="M406.2417697906494,152c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="427.1356506347656" y="130.5" class="DEPREL">
+nsubj</text>
+<path d="M486.36017990112305,152 L486.36017990112305,0 " class="curve">
+</path>
+<path d="M486.36017990112305,152c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="495.47413539886475" y="30" class="DEPREL">
+root</text>
+<path d="M581.2217178344727,152 C581.2217178344727,50 998.0338039398193,50 998.0338039398193,152" class="curve">
+</path>
+<path d="M581.2217178344727,152c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="779.96169090271" y="70.5" class="DEPREL">
+iobj</text>
+<path d="M661.9830322265625,152 C661.9830322265625,130 738.7461433410645,130 738.7461433410645,152" class="curve">
+</path>
+<path d="M661.9830322265625,152c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="687.6996564865112" y="130.5" class="DEPREL">
+case</text>
+<path d="M747.7461433410645,152 C747.7461433410645,90 590.2217178344727,90 590.2217178344727,152" class="curve">
+</path>
+<path d="M747.7461433410645,152c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="639.3254203796387" y="100.5" class="DEPREL">
+nmod:poss</text>
+<path d="M847.2032051086426,152 C847.2032051086426,130 756.7461433410645,130 756.7461433410645,152" class="curve">
+</path>
+<path d="M847.2032051086426,152c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="778.977949142456" y="130.5" class="DEPREL">
+det:poss</text>
+<path d="M926.9153594970703,152 C926.9153594970703,130 998.0338039398193,130 998.0338039398193,152" class="curve">
+</path>
+<path d="M926.9153594970703,152c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="947.8092575073242" y="130.5" class="DEPREL">
+nsubj</text>
+<path d="M1007.0338039398193,152 C1007.0338039398193,10 495.36017990112305,10 495.36017990112305,152" class="curve">
+</path>
+<path d="M1007.0338039398193,152c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="739.865475654602" y="40.5" class="DEPREL">
+conj</text>
+<path d="M1120.972915649414,152 C1120.972915649414,130 1016.0338039398193,130 1016.0338039398193,152" class="curve">
+</path>
+<path d="M1120.972915649414,152c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="1047.175232887268" y="130.5" class="DEPREL">
+advmod</text>
+<path d="M1226.3925018310547,152 C1226.3925018310547,90 1016.0338039398193,90 1016.0338039398193,152" class="curve">
+</path>
+<path d="M1226.3925018310547,152c0,0-2.5,-7.5 -2.5,-7.5c2.5,2.5 2.5,2.5 5,0z" class="arrowhead">
+</path>
+<text x="1110.9932222366333" y="100.5" class="DEPREL">
+cop</text>
+</svg>
