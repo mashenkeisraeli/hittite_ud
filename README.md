@@ -8,11 +8,11 @@ This UD treebank is being built on the material of Hittite letters, as published
 
 # annotation guidelines
 We use UD general guidelines as much as possible; for language-specific features of Hittite see "Hittite UD -- Guidelines" in the project files.<br>
-Dataset is organized as conllu-files. Recommended viewer: [https://universaldependencies.org/conllu_viewer.html](https://universaldependencies.org/conllu_viewer.html)<br>
+Dataset is organized as conllu-files. Recommended viewer:[https://arborator.grew.fr/](ArboratorGrew)<br>
 
 # materials
 ud_hett.config: JSON with cherry-picked categories for Hittite.<br>
-puduheba_letter_2026_04_04.conllu: annotated and proofred showcase.<br>
+puduheba_letter_2026_08_31.conllu: annotated and proofred showcase.<br>
 
 # references
 ACHC. – Molina, M. 2015-2024. Annotated Corpus of Hittite Clauses, http://hittitecorpus.com <br>
@@ -29,3 +29,4 @@ Molina, M. 2023. Universal dependencies for Hittite. // Computational Perspectiv
 Molina, M. 2026. [From Cuneiform to Corpus: Building Universal Dependencies for Hittite Letters.](https://unimelb.zoom.us/rec/share/EFlYti4uboFDND0e6x5S3LxMTvU0ApngZR2ZAWaxtpJXhsp0zHYcXEiRlvi2TMY.shqp7f-IHLuykvoq) // Ancient World Seminar, University of Melbourne. 2 April 2026. Invited lecture (passcode: *sjb5JS0) <br>
 Yavasan, E., Molina, M. 2024. Universal Dependencies for the Queen Puduheba. // Digital Humanities and Social Sciences (DHSS) in Israel, 21 May 2024. Tel Aviv University.<br>
 Yavasan, E., Molina, M. 2025. Universal Dependencies for Hittite. // Bytes and Bygones – Digital and Computational Analyses of Ancient Cultures, 16 September 2025. Ghent University. <br>
+Yavasan, E., Molina, M. Forthcoming. Universal Dependencies for Hittite. // Akkadica 147/2.
