@@ -1,0 +1,394 @@
+# sent_id = 1
+1	ŠEŠ	negna-|AḪU|ŠEŠ	NOUN	_	Case=Voc|Gender=Com|Language=Sum|Number=Sing	7	vocative	_	_
+2	-YA	=miš|-YA	DET	CL	Accent=Clitic|Language=Akk|Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3	=ma	=ma	PART	CL	Accent=Clitic|ConjType=Adv	7	discourse:conj	_	_
+4	=mu	=mu	PRON	CL	Accent=Clitic|Case=Dat|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+5	kuit	kuit	SCONJ	_	_	7	mark	_	_
+6	kišan	kiššan	ADV	_	_	7	advmod	_	_
+7	TÀŠPUR	ḫatrae-|ŠAPARU	VERB	_	Language=Akk|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+8	LÚ.MEŠ	antuḫsa-|LÚ	PART	DTR	Language=Sum|Number=Plur	9	clf	_	_
+9	ṬE4ME	ḫalugatalla-|ṬE4ME	NOUN	_	Case=Nom|Gender=Com|Language=Akk|Number=Plur	14	nsubj	_	_
+10	-KA	=ttiš|-KA	DET	CL	Accent=Clitic|Language=Akk|Number=Sing|Person=2|Poss=Yes|PronType=Prs	9	det:poss	_	_
+11	=wa	=wa	PART	CL	Accent=Clitic	14	discourse:quot	_	_
+12	kuwapi	kuwapi	ADV	_	PronType=Int	14	advmod	_	_
+13	[...]	FRGM	X	_	_	14	dep	_	_
+14	uēr	uwa	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	ccomp	_	_
+15	nu	nu	PART	CL	Accent=Clitic	19	discourse:conn	_	_
+16	=mu	=mu	PRON	CL	Accent=Clitic|Case=Dat|Number=Sing|Person=1|PronType=Prs	19	iobj	_	_
+17	[…]	FRGM	X	_	_	19	dep	_	_
+18	EGIR-pa	appa|EGIR	ADV	_	Language=Sum	19	advmod	_	_
+19	uter	uda-	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	conj	_	_
+20	nu	nu	PART	CL	Accent=Clitic	23	discourse:conn	_	_
+21	=wa	=wa	PART	CL	Accent=Clitic	23	discourse:quot	_	_
+22	=za	=za	PART	CL	Accent=Clitic|Reflex=Yes	23	discourse:refl	_	_
+23	duškun	dušk-	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	14	conj	_	_
+
+# sent_id = 2
+1	n=	nu	PART	CL	Accent=Clitic	3	discourse:conn	_	_
+2	=at	=a-	PRON	CL	Accent=Clitic|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	=[…]	FRGM	X	_	_	0	root	_	_
+
+# sent_id = 3
+1	ANA	ANA	ADP	_	Language=Akk	2	case	_	_
+2	DAM	DAM	NOUN	_	Case=Dat|Gender=Com|Language=Sum|Number=Sing	7	iobj	_	_
+3	ŠA	ŠA	ADP	_	Language=Akk	4	case	_	_
+4	ŠEŠ	negna-|AḪU|ŠEŠ	NOUN	_	Case=Gen|Gender=Com|Language=Sum|Number=Sing	2	nmod:poss	_	_
+5	-KA	=ttiš|-KA	DET	CL	Accent=Clitic|Language=Akk|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	det:poss	_	_
+6	TI-tar	huišnu-|TI	NOUN	_	Case=Nom|Gender=Com|Language=Sum|Number=Sing	7	nsubj	_	_
+7	šuwaru	šuwaru	ADJ	_	Case=Nom|Gender=Com|Number=Sing	0	root	_	_
+8	SAG.DU-i	ḫaršar|SAG.DU	NOUN	_	Case=Dat|Gender=Com|Language=Sum|Number=Sing	13	iobj	_	_
+9	ŠA	ŠA	ADP	_	Language=Akk	10	case	_	_
+10	ŠEŠ	negna-|AḪU|ŠEŠ	NOUN	_	Case=Gen|Gender=Com|Language=Sum|Number=Sing	8	nmod:poss	_	_
+11	-YA	=miš|-YA	DET	CL	Accent=Clitic|Language=Akk|Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	det:poss	_	_
+12	TI-tar	huišnu-|TI	NOUN	_	Case=Nom|Gender=Com|Language=Sum|Number=Sing	13	nsubj	_	_
+13	šuwaru	šuwaru	ADJ	_	Case=Nom|Gender=Com|Number=Sing	7	conj	_	_
+14	QATAMMA	apeniššan|QATAMMA	ADV	_	Language=Akk	13	advmod	_	_
+15	ēšdu	ēš-	AUX	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	13	cop	_	_
+
+# sent_id = 4
+1	nu	nu	PART	CL	Accent=Clitic	4	discourse:conn	_	_
+2	=mu	=mu	PRON	CL	Accent=Clitic|Case=Dat|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+3	[...]	FRGM	X	_	_	4	dep	_	_
+4	uppi	uppa-/uppiya-	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+
+# sent_id = 5
+1	n=	nu	PART	CL	Accent=Clitic	6	discourse:conn	_	_
+2	=at	=a-	PRON	CL	Accent=Clitic|Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+3	IŠTU	IŠTU	ADP	_	Language=Akk	5	case	_	_
+4	NA4	NA4	PART	DTR	Language=Sum	5	clf	_	_
+5	ZA.GÌN	ZA.GÌN	NOUN	_	Case=Ins|Language=Sum|Number=Sing	6	obl	_	_
+6	tianteš	dai-|ŠAKANU|ME	VERB	_	Case=Nom|Number=Plur|VerbForm=Part	0	root	_	_
+7	ašandu	ēš-|GÁL	AUX	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	6	cop	_	_
+
+# sent_id = 6
+1	namma	namma	ADV	_	_	8	advmod	_	_
+2	=mu	=mu	PRON	CL	Accent=Clitic|Case=Dat|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+3	=kan	=kan	PART	CL	Accent=Clitic|PartType=Loc	8	advmod:lmod	_	_
+4	ŠÀ	ker-/kard-|ŠÀ	NOUN	_	Case=Loc|Gender=Com|Language=Sum|Number=Sing	8	obl:lmod	_	_
+5	KUR.KUR.MEŠ	udne-|MATU|KUR	NOUN	_	Case=Gen|Gender=Com|Language=Sum|Number=Plur	4	nmod:poss	_	_
+6	[...]	FRGM	X	_	_	8	dep	_	_
+7	TI-tar	huišnu-|TI	NOUN	_	Case=Nom|Gender=Com|Language=Sum|Number=Sing	8	nsubj	_	_
+8	šuwaru	šuwaru	ADJ	_	Case=Nom|Gender=Com|Number=Sing	0	root	_	_
+
+# sent_id = 7
+1	ANA	ANA	ADP	_	Language=Akk	2	case	2:case	_
+2	ŠEŠ	negna-|AḪU|ŠEŠ	NOUN	_	Case=Dat|Gender=Com|Language=Sum|Number=Sing	8	iobj	8:iobj	_
+3	-YA	=mmiš|-YA	DET	CL	Accent=Clitic|Language=Akk|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det:poss	2:det:poss	_
+4	ammel	ūk	PRON	_	Accent=Stress|Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+5	aššulan	aššul-|SILIM	NOUN	_	Case=Acc|Gender=Com|Number=Sing	8	obj	8:obj	_
+6	ammel	ūk	PRON	_	Accent=Stress|Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
+7	unuwašḫan	unuwašḫa-	NOUN	_	Case=Acc|Gender=Com|Number=Sing	5	conj	5:conj|8:obj	_
+8	uppaḫḫun	uppa-	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+
+# sent_id = 8
+1	ammuk	uk	PRON	_	Accent=Stress|Case=Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	SIG5-in	āššu|SIG5	ADV	_	Language=Sum	0	root	_	_
+3	ANA	ANA	ADP	_	Language=Akk	4	case	_	_
+4	ŠEŠ	negna-|AḪU|ŠEŠ	NOUN	_	Case=Dat|Gender=Com|Language=Sum|Number=Sing	8	iobj	_	_
+5	-YA	=miš|-YA	DET	CL	Accent=Clitic|Language=Akk|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	det:poss	_	_
+6	=ya	=ya|Ù	CCONJ	CL	Accent=Clitic|ConjType=Add	8	cc	_	_
+7	QATAMMA	apeniššan|QATAMMA	ADV	_	Language=Akk	8	advmod	_	_
+8	SIG5-in	āššu|SIG5	ADV	_	Language=Sum	2	conj	_	_
+9	ēšdu	ēš-	AUX	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	8	cop	_	_
+
+# sent_id = 9
+1	ŠEŠ	negna-|AḪU|ŠEŠ	NOUN	_	Case=Voc|Gender=Com|Language=Sum|Number=Sing	7	vocative	_	_
+2	-YA	=miš|-YA	DET	CL	Accent=Clitic|Language=Akk|Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3	=ma	=ma	PART	CL	Accent=Clitic|ConjType=Adv	7	discourse:conj	_	_
+4	=mu	=mu	PRON	CL	Accent=Clitic|Case=Dat|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+5	kuit	kuit	SCONJ	_	_	7	mark	_	_
+6	kišan	kiššan	ADV	_	_	7	advmod	_	_
+7	TÀŠPUR	ḫatrae-|ŠAPARU	VERB	_	Language=Akk|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	NIN	nega-|AḪĀTU|NIN	NOUN	_	Case=Nom|Gender=Com|Language=Sum|Number=Sing	12	nsubj	_	_
+9	-YA	=miš|-YA	DET	CL	Accent=Clitic|Language=Akk|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	det:poss	_	_
+10	=wa	=wa	PART	CL	Accent=Clitic	12	discourse:quot	_	_
+11	=mu	=mu	PRON	CL	Accent=Clitic|Case=Dat|Number=Sing|Person=1|PronType=Prs	12	iobj	_	_
+12	IŠPUR	ḫatrae-|ŠAPARU	VERB	_	Language=Akk|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	ccomp	_	_
+13	DUMU.MUNUS	duttariyati-|DUMU.MUNUS	NOUN	_	Case=Acc|Gender=Com|Language=Sum|Number=Sing	16	obj	_	_
+14	=wa	=wa	PART	CL	Accent=Clitic	16	discourse:quot	_	_
+15	=ta	tuk	PRON	CL	Accent=Clitic|Case=Dat|Number=Sing|Person=2|PronType=Prs	16	iobj	_	_
+16	peḫḫi	pe-/pai-	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	ccomp	_	_
+
+# sent_id = 10
+1	šiwariyat	šiwarai-/šiwariya-	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+2	=ma	=ma	PART	CL	Accent=Clitic|ConjType=Adv	1	discourse:conj	_	_
+3	=war	=wa	PART	CL	Accent=Clitic	1	discourse:quot	_	_
+4	=an	=a-	PRON	CL	Accent=Clitic|Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+5	=mu	=mu	PRON	CL	Accent=Clitic|Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+
+# sent_id = 11
+1	nu	nu	PART	CL	Accent=Clitic	6	discourse:conn	_	_
+2	=wa	=wa	PART	CL	Accent=Clitic	6	discourse:quot	_	_
+3	=mu	=mu	PRON	CL	Accent=Clitic|Case=Dat|Number=Sing|Person=1|PronType=Prs	6	obl:arg	_	_
+4	=za	=za	PART	CL	Accent=Clitic|Reflex=Yes	6	discourse:refl	_	_
+5	kinun	kinun	ADV	_	_	6	advmod	_	_
+6	TUKU.TUKU-zaš	kardimmiya-|TUKU.TUKU	VERB	_	Language=Sum|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	kuwat	kuwat	PRON	_	PronType=Int	13	advmod	_	_
+8	=war	=wa	PART	CL	Accent=Clitic	13	discourse:quot	_	_
+9	=an	=a-	PRON	CL	Accent=Clitic|Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+10	=mu	=mu	PRON	CL	Accent=Clitic|Case=Dat|Number=Sing|Person=1|PronType=Prs	13	iobj	_	_
+11	kinun	kinun	ADV	_	_	13	advmod	_	_
+12	ŪL	natta|ŪL|NU	PART	_	Language=Akk|Polarity=Neg	13	advmod:neg	_	_
+13	pešta	pe-/pai-	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	_
+
+# sent_id = 13
+1	DUMU.MUNUS	duttariyati-|DUMU.MUNUS	NOUN	_	Case=Acc|Gender=Com|Language=Sum|Number=Sing	6	obj	_	_
+2	-YA	=miš|-YA	DET	CL	Accent=Clitic|Language=Akk|Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3	=ya	=ya|Ù	CCONJ	CL	Accent=Clitic|ConjType=Add	4	cc	_	_
+4	iwaru	iwaru	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	conj	_	_
+5	=ya	=ya|Ù	CCONJ	CL	Accent=Clitic|ConjType=Add	4	cc	_	_
+6	peḫḫi	pe-/pai-	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = 14
+1	n=	nu	PART	CL	Accent=Clitic	5	discourse:conn	_	_
+2	=at	=a-	PRON	CL	Accent=Clitic|Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+3	=za	=za	PART	CL	Accent=Clitic|Reflex=Yes	5	discourse:refl	_	_
+4	ŪL	natta|ŪL|NU	PART	_	Language=Akk|Polarity=Neg	5	advmod:neg	_	_
+5	markiyaši	markiya-	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = 15
+1	malāši	malai-	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	=ya	=ya|Ù	CCONJ	CL	Accent=Clitic|ConjType=Add	1	cc	_	_
+3	=at	=a-	PRON	CL	Accent=Clitic|Case=Acc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+4	=za	=za	PART	CL	Accent=Clitic|Reflex=Yes	1	discourse:refl	_	_
+
+# sent_id = 16
+1	kinun	kinun	ADV	_	_	8	advmod	_	_
+2	=ma	=ma	PART	CL	Accent=Clitic|ConjType=Adv	8	discourse:conj	_	_
+3	=an	=a-	PRON	CL	Accent=Clitic|Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+4	=ta	tuk	PRON	CL	Accent=Clitic|Case=Dat|Number=Sing|Person=2|PronType=Prs	6	iobj	_	_
+5	[...]	FRGM	X	_	_	8	dep	_	_
+6	pianna	pe-/pai-	VERB	_	VerbForm=Inf	8	xcomp	_	_
+7	ŪL	natta|ŪL|NU	PART	_	Language=Akk|Polarity=Neg	8	advmod:neg	_	_
+8	taraḫmi	tarḫ-	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = 17
+1	LÚ	LÚ	PART	DTR	Language=Sum	2	clf	_	_
+2	[...]	FRGM	X	_	_	0	root	_	_
+
+# sent_id = 18
+1	É	pir/parn-|BĪTU|É	NOUN	_	Case=Nom|Gender=Com|Language=Sum|Number=Sing	19	dislocated	_	_
+2	KUR	udne-|MATU|KUR	PART	_	Language=Sum	4	clf	_	_
+3	URU	URU	PART	DTR	Language=Sum	4	clf	_	_
+4	Ḫatti	Ḫatti	PROPN	_	Case=Gen|Gender=Com|Number=Sing	1	nmod:poss	_	_
+5	=za	=za	PART	CL	Accent=Clitic|Reflex=Yes	9	discourse:refl	_	_
+6	ŠEŠ	negna-|AḪU|ŠEŠ	NOUN	_	Case=Voc|Gender=Com|Language=Sum|Number=Sing	9	vocative	_	_
+7	-YA	=miš|-YA	DET	CL	Accent=Clitic|Language=Akk|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	det:poss	_	_
+8	GIM-an	maḫḫan|GIM	SCONJ	_	Language=Sum	9	mark	_	_
+9	šakti	šak-	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	advcl	_	_
+10	n=	nu	PART	CL	Accent=Clitic	15	discourse:conn	_	_
+11	=at	=a-	PRON	CL	Accent=Clitic|Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+12	=za	=za	PART	CL	Accent=Clitic|Reflex=Yes	15	discourse:refl	_	_
+13	ammuk	uk	PRON	_	Accent=Stress|Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+14	ŪL	natta|ŪL|NU	PART	_	Language=Akk|Polarity=Neg	15	advmod:neg	_	_
+15	šaggaḫḫi	šak-	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	parataxis	_	_
+16	n=	nu	PART	CL	Accent=Clitic	19	discourse:conn	_	_
+17	=at	=a-	PRON	CL	Accent=Clitic|Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
+18	arḫa	arḫa	ADV	_	_	19	advmod	_	_
+19	arnuwan	arnuwan	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+20	É-er	pir/parn-|BĪTU|É	NOUN	_	Case=Nom|Gender=Com|Language=Sum|Number=Sing	19	dislocated	_	_
+21	[...]	FRGM	X	_	_	19	dep	_	_
+
+# sent_id = 19
+1	āšta	āš-	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	advcl	_	_
+2	=ma	=ma	PART	CL	Accent=Clitic|ConjType=Adv	1	discourse:conj	_	_
+3	=kan	=kan	PART	CL	Accent=Clitic|PartType=Loc	1	advmod:lmod	_	_
+4	kuit	kuit	SCONJ	_	_	1	mark	_	_
+5	n=	nu	PART	CL	Accent=Clitic	13	discourse:conn	_	_
+6	=at	=a-	PRON	CL	Accent=Clitic|Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+7	=kan	=kan	PART	CL	Accent=Clitic|PartType=Loc	13	advmod:lmod	_	_
+8	m	m	PART	DTR	Language=Sum	9	clf	_	_
+9	Urḫi-dU-upaš	Urḫi-Teššup-	PROPN	_	Case=Nom|Gender=Com|Number=Sing	13	nsubj	_	_
+10	ANA	ANA	ADP	_	Language=Akk	11	case	_	_
+11	DINGIR	šiu-/šiuna-|DINGIR	NOUN	_	Case=Dat|Gender=Com|Language=Sum|Number=Sing	13	iobj	_	_
+12	GAL	šalli-|GAL	ADJ	_	Case=Dat|Degree=Pos|Gender=Com|Language=Sum|Number=Sing	11	amod	_	_
+13	pešta	pe-/pai-	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+
+# sent_id = 20
+1	nu	nu	PART	CL	Accent=Clitic	5	discourse:conn	_	_
+2	m	m	PART	DTR	Language=Sum	3	clf	_	_
+3	Urḫi-dU-upaš	Urḫi-Teššup-	PROPN	_	Case=Nom|Gender=Com|Number=Sing	5	nsubj	_	_
+4	kuit	kuit	SCONJ	_	_	5	mark	_	_
+5	apiya	apiya	ADV	_	_	8	advcl	_	_
+6	n=	nu	PART	CL	Accent=Clitic	8	discourse:conn	_	_
+7	=an	=a-	PRON	CL	Accent=Clitic|Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	punuš	punuš-|LI.TAR	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+9	mān	mān	SCONJ	_	_	10	mark	_	_
+10	kišan	kiššan	ADV	_	_	8	advcl	_	_
+11	mān	mān	SCONJ	_	_	13	mark	_	_
+12	ŪL	natta|ŪL|NU	PART	_	Language=Akk|Polarity=Neg	13	advmod:neg	_	_
+13	kišan	kiššan	ADV	_	_	8	advcl	_	_
+
+# sent_id = 21
+1	ammuk	uk	PRON	_	Accent=Stress|Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
+2	=ma	=ma	PART	CL	Accent=Clitic|ConjType=Adv	11	discourse:conj	11:discourse:conj	_
+3	ANA	ANA	ADP	_	Language=Akk	4	case	4:case	_
+4	ŠEŠ	negna-|AḪU|ŠEŠ	NOUN	_	Case=Dat|Gender=Com|Language=Sum|Number=Sing	11	iobj	11:iobj	_
+5	-YA	=miš|-YA	DET	CL	Accent=Clitic|Language=Akk|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	det:poss	4:det:poss	_
+6	kuin	kui	DET	_	Case=Acc|Gender=Com|Number=Sing|PronType=Rel	7	det	7:det|13:ref	Entity=(1-person
+7	DUMU.MUNUS	duttariyati-|DUMU.MUNUS	NOUN	_	Case=Acc|Gender=Com|Language=Sum|Number=Sing	11	obj	11:obj	_
+8	nepišaš	nepiš-	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	7	nmod:poss	7:nmod:poss	_
+9	KI-ašš	tekan-|KI	NOUN	_	Case=Gen|Gender=Neut|Language=Sum|Number=Sing	8	conj	7:nmod:poss|8:conj	_
+10	=a	=ya|Ù	CCONJ	CL	Accent=Clitic|ConjType=Add	9	cc	9:cc	Entity=1)
+11	peḫḫi	pe-/pai-	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	16:advcl	_
+12	n=	nu	PART	CL	Accent=Clitic	16	discourse:conn	16:discourse:conn	_
+13	=an	=a-	PRON	CL	Accent=Clitic|Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs	16	obj	11:obj|16:obj	Entity=(1-person)
+14	=kan	=kan	PART	CL	Accent=Clitic|PartType=Loc	16	advmod:lmod	16:advmod:lmod	_
+15	kuedani	kui-	PRON	_	Case=Dat|Gender=Com|Number=Sing|PronType=Int	16	iobj	16:iobj	_
+16	ḫandami	ḫandai-	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+
+# sent_id = 22
+1	ANA	ANA	ADP	_	Language=Akk	2	case	_	_
+2	DUMU.MUNUS	duttariyati-|DUMU.MUNUS	NOUN	_	Case=Dat|Gender=Com|Language=Sum|Number=Sing	12	obl	_	_
+3	KUR	udne-|MATU|KUR	PART	DTR	Language=Sum	5	clf	_	_
+4	URU	URU	PART	DTR	Language=Sum	5	clf	_	_
+5	Karanduniyaš	Karanduniya-	PROPN	_	Case=Gen|Gender=Com|Number=Sing	2	nmod	_	_
+6	KUR	udne-|MATU|KUR	PART	DTR	Language=Sum	8	clf	_	_
+7	URU	URU	PART	DTR	Language=Sum	8	clf	_	_
+8	Zulapi	Zulapi-	PROPN	_	Case=Gen|Gender=Com|Number=Sing	2	nmod	_	_
+9	KUR	udne-|MATU|KUR	PART	DTR	Language=Sum	11	clf	_	_
+10	URU	URU	PART	DTR	Language=Sum	11	clf	_	_
+11	Aššur	Aššur	PROPN	_	Case=Gen|Gender=Com|Number=Sing	2	nmod	_	_
+12	ḫandami	ḫandai-	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = 23
+1	apēdaš	aba-	PRON	_	Case=Dat|Gender=Com|Number=Plur|PronType=Dem	8	iobj	_	_
+2	=an	=a-	PRON	CL	Accent=Clitic|Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+3	=kan	=kan	PART	CL	Accent=Clitic|PartType=Loc	8	advmod:lmod	_	_
+4	kuwapi	kuwapi	SCONJ	_	_	8	mark	_	_
+5	UL	natta|ŪL|NU	PART	_	Language=Akk|Polarity=Neg	8	advmod:neg	_	_
+6	GAM-an	katta-|GAM	ADV	_	Language=Sum	8	advmod	_	_
+7	išḫanna	išḫai-	VERB	_	VerbForm=Inf	8	xcomp	_	_
+8	taraḫmi	tarḫ-	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+9	n=	nu	PART	CL	Accent=Clitic	14	discourse:conn	_	_
+10	=aš	=a-	PRON	CL	Accent=Clitic|Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+11	duwan	duwan	ADV	_	_	14	advmod:lmod	_	_
+12	=ma	=ma	PART	CL	Accent=Clitic|ConjType=Adv	14	discourse:conj	_	_
+13	parā	parā	ADV	_	_	14	advmod	_	_
+14	[...]	FRGM	X	_	_	0	root	_	_
+
+# sent_id = 24
+1	ANA	ANA	ADP	_	Language=Akk	2	case	_	_
+2	ŠEŠ	negna-|AḪU|ŠEŠ	NOUN	_	Case=Dat|Gender=Com|Language=Sum|Number=Sing	7	iobj	_	_
+3	-YA	=miš|-YA	DET	CL	Accent=Clitic|Language=Akk|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det:poss	_	_
+4	=ma	=ma	PART	CL	Accent=Clitic|ConjType=Adv	7	discourse:conj	_	_
+5	NU.GÁL	NU.GÁL	PART	_	Language=Sum|Polarity=Neg	7	advmod:neg	_	_
+6	imma	imma	PART	_	Accent=Stress	7	advmod:emph	_	_
+7	kuitki	kui-	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	0	root	_	_
+
+# sent_id = 25
+1	mān	mān	SCONJ	_	_	11	mark	_	_
+2	ANA	ANA	ADP	_	Language=Akk	3	case	_	_
+3	DUMU	pulla-|DUMU	NOUN	_	Case=Dat|Gender=Com|Language=Sum|Number=Sing	11	iobj	_	_
+4	d	d	PART	DTR	Language=Sum	5	clf	_	_
+5	UTU	istanu-|UTU	PROPN	_	Case=Gen|Gender=Com|Language=Sum|Number=Sing	3	det:poss	_	_
+6	našma	naššu	CCONJ	_	_	7	cc	_	_
+7	DUMU	pulla-|DUMU	NOUN	_	Case=Dat|Gender=Com|Language=Sum|Number=Sing	5	conj	_	_
+8	d	d	PART	DTR	Language=Sum	9	clf	_	_
+9	U	Tarḫunt-|Tessub|ISKUR/U/IM	PROPN	_	Case=Gen|Gender=Com|Language=Sum|Number=Sing	7	det:poss	_	_
+10	ŪL	natta|ŪL|NU	PART	_	Language=Akk|Polarity=Neg	11	advmod:neg	_	_
+11	kuitki	kui-	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	20	obj	_	_
+12	ēšzi	ēš-	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+13	našma	naššu	CCONJ	_	_	14	cc	_	_
+14	aruni	aruni|A.AB.BA	NOUN	_	Case=Dat|Gender=Com|Number=Sing	7	conj	_	_
+15	ŪL	natta|ŪL|NU	PART	_	Language=Akk|Polarity=Neg	16	advmod:neg	_	_
+16	ēšzi	ēš-	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+17	tukk	tuk	PRON	_	Accent=Stress|Case=Loc|Number=Sing|Person=2|PronType=Prs	20	conj	_	_
+18	=a	=ya|Ù	CCONJ	CL	Accent=Clitic|ConjType=Add	17	cc	_	_
+19	ŪL	natta|ŪL|NU	PART	_	Language=Akk|Polarity=Neg	20	advmod:neg	_	_
+20	kuitki	kui-	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	0	root	_	_
+21	ēšzi	ēš-	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+
+# sent_id = 26
+1	ŠEŠ	negna-|AḪU|ŠEŠ	NOUN	_	Case=Voc|Gender=Com|Language=Sum|Number=Sing	5	vocative	_	_
+2	-YA	=miš|-YA	DET	CL	Accent=Clitic|Language=Akk|Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3	=ma	=ma	PART	CL	Accent=Clitic|ConjType=Adv	5	discourse:conj	_	_
+4	ammēdaz	uk	PRON	_	Accent=Stress|Case=Abl|Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+5	NÍG.TUKU-ti	happineš-|NÍG.TUKU	VERB	_	Language=Sum|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	kuitki	kui-	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	5	obj	_	_
+
+# sent_id = 27
+1	ŪL	natta|ŪL|NU	PART	_	Language=Akk|Polarity=Neg	3	advmod:neg	_	_
+2	=at	=a-	PRON	CL	Accent=Clitic|Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ŠUM-an	laman|ŠUM	NOUN	_	Case=Acc|Gender=Neut|Language=Sum|Number=Sing	0	root	_	_
+4	išḫaššarwatarr	išḫaššarwatarr	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	conj	_	_
+5	=a	=ya|Ù	CCONJ	CL	Accent=Clitic|ConjType=Add	4	cc	_	_
+
+# sent_id = 28
+1	ANA	ANA	ADP	_	Language=Akk	2	case	_	_
+2	ŠEŠ	negna-|AḪU|ŠEŠ	NOUN	_	Case=Dat|Gender=Com|Language=Sum|Number=Sing	7	iobj	_	_
+3	-YA	=miš|-YA	DET	CL	Accent=Clitic|Language=Akk|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det:poss	_	_
+4	=ma	=ma	PART	CL	Accent=Clitic|ConjType=Adv	7	discourse:conj	_	_
+5	kuit	kuit	SCONJ	_	_	7	mark	_	_
+6	kišan	kiššan	SCONJ	_	_	7	advmod	_	_
+7	AŠPUR	ḫatrai-|ŠAPARU	VERB	_	Language=Akk|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	15	advcl	_	_
+8	ANA	ANA	ADP	_	Language=Akk	9	case	_	_
+9	DUMU.MUNUS	duttariyati-|DUMU.MUNUS	NOUN	_	Case=Dat|Gender=Com|Language=Sum|Number=Sing	15	iobj	_	_
+10	=wa	=wa	PART	CL	Accent=Clitic	15	discourse:quot	_	_
+11	kuin	kui	PRON	_	Case=Acc|Gender=Com|Number=Sing|PronType=Rel	12	det	_	_
+12	NAM.RA.MEŠ	arnuwala-|NAM.RA	NOUN	_	Case=Acc|Gender=Com|Language=Sum|Number=Plur	15	obj	_	_
+13	GU4.MEŠ	GU4	NOUN	_	Case=Acc|Gender=Com|Language=Sum|Number=Plur	12	conj	_	_
+14	UDU.ḪI.A	hawi-|UDU	NOUN	_	Case=Acc|Gender=Com|Language=Sum|Number=Plur	12	conj	_	_
+15	peškemi	pe-/pai-	VERB	_	Aspect=Iter|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = 29
+1	nu	nu	PART	CL	Accent=Clitic	8	discourse:conn	_	_
+2	=wa	=wa	PART	CL	Accent=Clitic	8	discourse:quot	_	_
+3	=mu	=mu	PRON	CL	Accent=Clitic|Case=Dat|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+4	=kan	=kan	PART	CL	Accent=Clitic|PartType=Loc	8	advmod:lmod	_	_
+5	ŠÀ	ker-/kard-|ŠÀ	NOUN	_	Case=Loc|Gender=Com|Language=Sum|Number=Sing	8	obl:lmod	_	_
+6	KUR.KUR.MEŠ	udne-|MATU|KUR	NOUN	_	Case=Gen|Gender=Com|Language=Sum|Number=Plur	5	nmod:poss	_	_
+7	ḫalkiš	ḫalki-	NOUN	_	Case=Nom|Gender=Com|Number=Sing	8	nsubj	_	_
+8	NU.GÁL	NU.GÁL	PART	_	Language=Sum|Polarity=Neg	0	root	_	_
+
+# sent_id = 30
+1	nu	nu	PART	CL	Accent=Clitic	9	discourse:conn	9:discourse:conn	_
+2	=wa	=wa	PART	CL	Accent=Clitic	9	discourse:quot	9:discourse:quot	_
+3	=ta	tuk	PRON	CL	Accent=Clitic|Case=Dat|Number=Sing|Person=2|PronType=Prs	9	iobj	9:iobj	_
+4	kuedani	kui-	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	5	det	5:det|13:ref	Entity=(2-time
+5	mēḫuni	mēḫur	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	9	obl:tmod	9:obl:tmod	Entity=2-time)
+6	LÚ.MEŠ	LÚ	PART	DTR	Language=Sum|Number=Plur	7	clf	7:clf	_
+7	ṬE4ME	ḫalugatalla-|ṬE4ME	NOUN	_	Case=Nom|Gender=Com|Language=Akk|Number=Plur	9	nsubj	9:nsubj	_
+8	anda	anda-	ADV	_	_	9	advmod	9:advmod	_
+9	wemiyanzi	wemiya-|KAŠADU|KAR	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	19:advcl	_
+10	nu	nu	PART	CL	Accent=Clitic	19	discourse:conn	19:discourse:conn	_
+11	=wa	=wa	PART	CL	Accent=Clitic	19	discourse:quot	19:discourse:quot	_
+12	=mu	=mu	PRON	CL	Accent=Clitic|Case=Dat|Number=Sing|Person=1|PronType=Prs	19	iobj	19:iobj	_
+13	=kan	=kan	PART	CL	Accent=Clitic|PartType=Loc	19	advmod:lmod	19:advmod:lmod	Entity=(2-time)
+14	ŠEŠ	negna-|AḪU|ŠEŠ	NOUN	_	Case=Gen|Gender=Com|Language=Sum|Number=Sing	17	nmod:poss	17:nmod:poss	_
+15	-YA	=miš|-YA	DET	CL	Accent=Clitic|Language=Akk|Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	det:poss	14:det:poss	_
+16	LÚ	LÚ	PART	DTR	Language=Sum	17	clf	17:clf	_
+17	PITḪALLI	PITḪALLI	NOUN	_	Case=Acc|Gender=Com|Language=Akk|Number=Sing	19	obj	19:obj	_
+18	parā	parā	ADV	_	_	19	advmod	19:advmod	_
+19	nāi	ne-/nāi-	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	0:root	_
+
+# sent_id = 31
+1	ANA	ANA	ADP	_	Language=Akk	2	case	_	_
+2	EN.MEŠ	išḫa-|BELU|EN	NOUN	_	Case=Dat|Gender=Com|Language=Sum|Number=Plur	9	iobj	_	_
+3	KUR-TI	udne-|KUR	NOUN	_	Case=Gen|Gender=Com|Language=Sum|Number=Sing	2	nmod	_	_
+4	-YA	=miš|-YA	DET	CL	Accent=Clitic|Language=Akk|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	det:poss	_	_
+5	=wa	=wa	PART	CL	Accent=Clitic	9	discourse:quot	_	_
+6	GIŠ	GIŠ	PART	DTR	Language=Sum	7	clf	_	_
+7	ḪUR.MEŠ	ḪUR.MEŠ	NOUN	_	Case=Acc|Language=Sum|Number=Plur	9	obj	_	_
+8	menaḫḫanda	menaḫḫanda|IGI-anda	ADV	_	_	9	advmod	_	_
+9	udandu	uda-	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+
+# sent_id = 32
+1	nu	nu	PART	CL	Accent=Clitic	8	discourse:conn	8:discourse:conn	_
+2	=wa	=wa	PART	CL	Accent=Clitic	8	discourse:quot	8:discourse:quot	_
+3	NAM.RA.MEŠ	arnuwala-|NAM.RA	NOUN	_	Case=Acc|Gender=Com|Language=Sum|Number=Plur	8	obj	8:obj	Entity=(3-other
+4	kuin	kui	DET	_	Case=Acc|Gender=Com|Number=Sing|PronType=Rel	3	det	3:det|11:ref|17:ref	_
+5	GU4.MEŠ	GU4	NOUN	_	Case=Acc|Gender=Com|Language=Sum|Number=Plur	3	conj	3:conj	_
+6	UDU.ḪI.A	hawi-|UDU	NOUN	_	Case=Acc|Gender=Com|Language=Sum|Number=Plur	3	conj	3:conj	Entity=3-other)
+7	pē	pe	ADV	_	_	8	compound	8:compound	_
+8	ḫarkanzi	ḫark-	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	14:advcl	_
+9	nu	nu	PART	CL	Accent=Clitic	14	discourse:conn	14:discourse:conn	_
+10	=war	=wa	PART	CL	Accent=Clitic	14	discourse:quot	14:discourse:quot	_
+11	=an	=a-	PRON	CL	Accent=Clitic|Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs	14	obj	8:obj|14:obj	Entity=(3-other)
+12	=kan	=kan	PART	CL	Accent=Clitic|PartType=Loc	14	advmod:lmod	14:advmod:lmod	_
+13	arḫa	arḫa	ADV	_	_	14	advmod	14:advmod	_
+14	daškandu	da-|ME	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	0	root	0:root	_
+15	nu	nu	PART	CL	Accent=Clitic	18	discourse:conn	18:discourse:conn	_
+16	=war	=wa	PART	CL	Accent=Clitic	18	discourse:quot	18:discourse:quot	_
+17	=an	=a-	PRON	CL	Accent=Clitic|Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs	18	obj	8:obj|18:obj	Entity=(3-other)
+18	parnawiškandu	parnawai-	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	14	conj	14:conj	_
